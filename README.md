@@ -1,1 +1,1 @@
-# Udacity-aws-architect
+# Udacity aws-architect
