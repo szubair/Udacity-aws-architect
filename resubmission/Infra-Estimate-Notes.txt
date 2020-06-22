@@ -1,0 +1,13 @@
+Task 2: Calculate Infrastructure Costs
+--------------------------------------
+
+Regarding 'Reduced_Cost_Estimate', on the ec2-instance service I choose one-year reserve instances for the same instance type and it helped to reduce the montly cost drascitally. Similar approach I did for RDS service and I am able to reduce around 40% - 50% on the total monthly cost. I see, this step itself a great cost saviour in the AWS montly bill.
+
+
+Regarding 'Increased_Cost Estimate', I selected multi-AZ for RDS service. I have added CloudWatch metrics, SNS service and CloudWatch logs to do collect various logs and notify me during any alarms. The cloudwatch service will analyze the logs of various AWS services and send notificationds. I need to download AWS logs from VPC, ALB, CloudTrail service and these logs will help me in troubleshooting application issues and analyse the API calls in the aws account. I have enabled AWS business support to reach out to highly talented cloud support engineers for any technical or architectural advise.
+
+
+
+
+
+
