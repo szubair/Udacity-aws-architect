@@ -1,0 +1,674 @@
+Event ID,Event time,User name,Event name,Resource type,Resources,AWS access key,AWS region,Error code,Source IP address
+152d8898-05e3-422a-a1b2-646a39bfab58,"2020-06-21, 11:43:00 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+7614bd8b-182a-47ec-aa60-6aa0dd275bf4,"2020-06-21, 11:43:00 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+df97c5c7-b08a-424f-87c6-4c2cbcf50428,"2020-06-21, 11:43:00 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+07e84b9f-50cb-43ec-b98e-1401772699e9,"2020-06-21, 11:42:58 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+166fb9bf-485a-4bf8-ac92-852453587298,"2020-06-21, 11:42:58 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+1f93288f-bffb-4d95-9feb-87aa4888a134,"2020-06-21, 11:42:58 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+3ba8fb33-78f4-47d5-95aa-1b0f161368cd,"2020-06-21, 11:42:58 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+603da0ba-1d23-4ca0-ad64-fa1638ff0497,"2020-06-21, 11:42:58 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+eb40cdf3-3631-40d5-891a-cc23a14cc21b,"2020-06-21, 11:42:58 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+1c977dc6-2086-4379-b7ce-8af25a25e8c9,"2020-06-21, 11:42:57 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+2a648ff0-5a9b-4552-aeb6-f3c76d020ece,"2020-06-21, 11:42:57 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+7d46e225-c525-41a5-b041-441d98c890e2,"2020-06-21, 11:42:57 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+7f77a64f-58a5-4006-b16f-45031f19ae9b,"2020-06-21, 11:42:57 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+8cc40f33-d741-409f-975c-a141d01c5f06,"2020-06-21, 11:42:57 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+8db9d6d0-279d-420d-bf37-bc537861368a,"2020-06-21, 11:42:57 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+cc544b1c-1641-4beb-9598-8bfa6470b00b,"2020-06-21, 11:42:57 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+d264b47c-52dd-4d69-89da-dae770858cc0,"2020-06-21, 11:42:57 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+6914847a-4565-4592-8c8a-7d4538ead655,"2020-06-21, 11:42:56 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+a9b94cbd-fcf9-49c7-9a3d-aff353fb77ff,"2020-06-21, 11:42:56 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+dfc878fa-2324-467f-951f-53d80a4a7ca0,"2020-06-21, 11:42:56 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+04036731-9dbf-4f68-9858-e337e97bf808,"2020-06-21, 11:42:55 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+48296407-be9d-4002-8110-8505c1520a9a,"2020-06-21, 11:42:55 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+bcc245a2-7566-4c45-83bd-37f446db1587,"2020-06-21, 11:42:55 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+bedde061-a48f-494f-80fd-c09cbee5addb,"2020-06-21, 11:42:55 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+c090106d-91bf-4fbe-9281-f9e9d2815080,"2020-06-21, 11:42:55 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+b8267f7b-4d1a-4b17-b465-2dce54692442,"2020-06-21, 10:54:10 PM",devops,DeleteRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+ee557fd7-684d-4d36-92a6-fbc3bbc9c91f,"2020-06-21, 10:54:10 PM",devops,DeletePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""}]",,us-east-1,,49.207.204.98
+216777b2-0e62-443c-b178-d4f6bfe3ba14,"2020-06-21, 10:54:07 PM",devops,DeleteLogGroup,,,,us-east-1,,49.207.204.98
+f6b31c1f-91eb-41a2-a45d-464488d85cd9,"2020-06-21, 10:54:07 PM",devops,DetachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+7310ad63-8453-48b0-80a0-0b283a9a0d6e,"2020-06-21, 10:54:06 PM",devops,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""greet_lambda""}]",,us-east-1,,49.207.204.98
+9bc89446-e6d9-4c81-ab17-278e6170a01e,"2020-06-21, 08:15:47 PM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+5ef9aa82-594d-427b-941a-3b79ebce1b6a,"2020-06-21, 08:13:54 PM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+5b487efa-523c-4a0d-a98b-9b1982479104,"2020-06-21, 08:13:27 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+38ac8b9c-3153-4721-9dbd-039b9aa20ac6,"2020-06-21, 08:12:59 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+55345c36-02a3-4c02-a3ff-dba54c4a961f,"2020-06-21, 08:12:58 PM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+5c0304a9-611e-4363-bfb7-529bfa6c50ff,"2020-06-21, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+7fd1a2c9-3ad0-4517-a4f0-ce13eb1c77c9,"2020-06-21, 08:12:58 PM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+84d0e343-c7d4-4955-9533-3689aedca16f,"2020-06-21, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+870e9646-6bb7-47bd-b8ae-a4da69e617b6,"2020-06-21, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+90a4de66-18bd-42ed-b2fa-ce4a8c5e8f13,"2020-06-21, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+92c954b9-065b-41c7-856c-4dba8947768b,"2020-06-21, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+0e76b3dd-dc7a-47f3-b6ee-39dd2b22ab82,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+175278f1-2b07-4046-b668-03e5af182cb9,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+1e419237-b20e-4099-ae77-1504f42cb463,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+2e38c82c-5911-4762-9a10-b44242e2001c,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+3d53bffe-42ff-44a7-9180-b8427b5613d7,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+3e48c1ce-4e48-46be-810f-10a71716013a,"2020-06-21, 08:12:57 PM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+3f77360d-3977-4232-a98f-77978e410eac,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+40b1a3df-6293-49de-b62c-9a57d7cc08b2,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+44d91b96-d88a-47cf-beed-44678767e88d,"2020-06-21, 08:12:57 PM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+485ac2f0-2224-439d-ac24-2ce3da9f45db,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+591ce0d7-7571-41d1-93d6-6b2fd149f2b1,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+6671e28d-e42b-4752-bd0c-3fbefca2c66f,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+6af6b4ee-de72-42ff-8c98-a46665efee1d,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+6ce5e2f8-409f-441c-ac1b-8d775da2cccf,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+7bde15aa-eed4-4446-8d45-4d02cf15e8f6,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+7ed1611d-3054-4639-8182-da2393524b92,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+83c9d016-5032-4b47-89af-d734047ee68b,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+98a4b73d-a79d-454a-9d3c-5d7ff1d66e4f,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+aad64ecf-bec5-4041-8a43-8f4f7c75a2ca,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+bbec52cb-c4d1-4b84-9bc2-31ee37b7a10f,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+d0ffe7c9-b83e-4217-9389-8031e1b88d28,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+ddc72317-3768-4c89-aa75-f655ff2a6145,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+ec22f9d1-f940-42c9-8e0e-e9f8250d011c,"2020-06-21, 08:12:57 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+f96dfe42-5c8c-4f05-ab64-c4e6186b5382,"2020-06-21, 07:49:14 PM",devops,TerminateInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-006045ca1d30de3b3""}]",,us-east-1,,49.207.204.98
+02cb36dd-e2d2-49c4-bb86-73e3210aa02f,"2020-06-21, 07:49:13 PM",devops,TerminateInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-021495dd59e6fb310""}]",,us-east-1,,49.207.204.98
+c5d03134-e57b-4882-82ff-f3dc40167f16,"2020-06-21, 07:49:13 PM",devops,TerminateInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-07ac27a17b3000113""}]",,us-east-1,,49.207.204.98
+e2c66acb-c225-4858-96bd-3a15355814e3,"2020-06-21, 07:49:13 PM",devops,TerminateInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-082d0c31f6e5fe33c""}]",,us-east-1,,49.207.204.98
+208d44d5-e2de-4ad9-be9f-4478060472be,"2020-06-21, 07:46:13 PM",devops,TerminateInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-0c824c3f59b39f210""}]",,us-east-1,,49.207.204.98
+d5e76ff2-c53e-4b86-91e2-707d9d0b8306,"2020-06-21, 07:46:13 PM",devops,TerminateInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-005ea782c16450e47""}]",,us-east-1,,49.207.204.98
+9b6868b4-3ad5-46c1-82e7-e5ea8527849f,"2020-06-21, 07:41:47 PM",devops,MonitorInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-006045ca1d30de3b3""}]",,us-east-1,,49.207.204.98
+1d042b4e-9f25-4c46-8d63-8b40121290f9,"2020-06-21, 07:41:46 PM",devops,MonitorInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-082d0c31f6e5fe33c""}]",,us-east-1,,49.207.204.98
+77c1e360-49bf-4c62-b0e8-7febf00c4c97,"2020-06-21, 07:41:46 PM",devops,MonitorInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-021495dd59e6fb310""}]",,us-east-1,,49.207.204.98
+e26597b2-3eff-4eda-aa90-fa70d5bdc38a,"2020-06-21, 07:41:46 PM",devops,MonitorInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-07ac27a17b3000113""}]",,us-east-1,,49.207.204.98
+76f5094f-e417-49a0-998a-70032b0370e0,"2020-06-21, 07:41:38 PM",devops,MonitorInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-0c824c3f59b39f210""}]",,us-east-1,,49.207.204.98
+af1d833b-446f-4cd8-a601-cab809c0a0a8,"2020-06-21, 07:41:38 PM",devops,MonitorInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-005ea782c16450e47""}]",,us-east-1,,49.207.204.98
+56f9a307-5172-4887-ac00-d847f06e75a9,"2020-06-21, 07:41:26 PM",,SharedSnapshotVolumeCreated,,,,us-east-1,,ec2.amazonaws.com
+855ffb98-65b0-41f8-a687-c43146fa4045,"2020-06-21, 07:41:26 PM",,SharedSnapshotVolumeCreated,,,,us-east-1,,ec2.amazonaws.com
+9c42eb87-f113-402d-a9f5-aa5fa5bfa8ab,"2020-06-21, 07:41:26 PM",,SharedSnapshotVolumeCreated,,,,us-east-1,,ec2.amazonaws.com
+c6385fca-c57c-4b2a-bba5-5718050175c7,"2020-06-21, 07:41:26 PM",,SharedSnapshotVolumeCreated,,,,us-east-1,,ec2.amazonaws.com
+d06ecfc2-95e5-4f98-afb8-62a31a7a4436,"2020-06-21, 07:41:26 PM",,SharedSnapshotVolumeCreated,,,,us-east-1,,ec2.amazonaws.com
+dc3b79d1-6a9c-4c16-b0f1-4268975b0d40,"2020-06-21, 07:41:26 PM",,SharedSnapshotVolumeCreated,,,,us-east-1,,ec2.amazonaws.com
+289f02c9-ee63-405a-af6a-d993e4f3b9b0,"2020-06-21, 07:41:22 PM",devops,RunInstances,EC2 VPC and 5 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-0e415f213cac1471b""},{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-005ea782c16450e47""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Database""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0f7c99a36a9020d85""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,49.207.204.98
+5f5a69a8-27b8-4d0d-aa32-5b1e9597c292,"2020-06-21, 07:41:22 PM",devops,RunInstances,EC2 VPC and 5 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-0f850dd2759b9dd91""},{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-07ac27a17b3000113""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Database""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0f7c99a36a9020d85""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,49.207.204.98
+84ee2f87-31be-484b-aa17-5b1fbc3d67d6,"2020-06-21, 07:41:22 PM",devops,RunInstances,EC2 VPC and 5 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-081c1c5fd636f0de6""},{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-0c824c3f59b39f210""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Database""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0f7c99a36a9020d85""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,49.207.204.98
+9ccaae6b-480d-4e73-aecf-32345d5a732b,"2020-06-21, 07:41:22 PM",devops,RunInstances,EC2 VPC and 5 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-0eb9ddb4a4cbfe16d""},{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-021495dd59e6fb310""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Database""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0f7c99a36a9020d85""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,49.207.204.98
+a0a53327-6525-4289-b736-6d9c8fc84431,"2020-06-21, 07:41:22 PM",devops,RunInstances,EC2 VPC and 5 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-0de88d765cac9279b""},{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-006045ca1d30de3b3""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Database""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0f7c99a36a9020d85""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,49.207.204.98
+e0dac982-93e4-481c-8cfd-100f3a8b2059,"2020-06-21, 07:41:22 PM",devops,RunInstances,EC2 VPC and 5 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-085a545ebff5c10eb""},{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-082d0c31f6e5fe33c""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Database""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0f7c99a36a9020d85""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,49.207.204.98
+3288f12e-0682-405c-ab5e-faff9d2f9821,"2020-06-21, 06:04:19 PM",greet_lambda,CreateLogStream,,,,us-east-1,,35.153.142.173
+d1b9b9e1-9c98-422c-9184-9faa7031da5d,"2020-06-21, 06:01:01 PM",root,GenerateServiceLastAccessedDetails,,,,us-east-1,,49.207.204.98
+05a401f6-4edc-4323-b594-d21ee200d792,"2020-06-21, 05:59:59 PM",749678902839,CreateNetworkInterface,EC2 VPC and 3 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-0bbba050450ab930c""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""default""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,18.215.147.223
+27cf743f-b591-4332-aec5-8db26db4d869,"2020-06-21, 05:59:59 PM",devops,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""greet_lambda""}]",,us-east-1,,49.207.204.98
+3b851f2f-305b-42f8-b7e2-1e0b7b1f266a,"2020-06-21, 05:59:59 PM",awslambda_691_20200621122958618,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.DryRunOperation,35.173.217.186
+65eb477e-f3d5-474e-99b2-f1f3c04f9995,"2020-06-21, 05:59:59 PM",awslambda_691_20200621122958618,DeleteNetworkInterface,,,,us-east-1,Client.DryRunOperation,35.173.217.186
+7e13a35e-b775-4c33-8fc4-25c1328d2df2,"2020-06-21, 05:59:59 PM",awslambda_691_20200621122958618,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-06755cc9187512efd""}]",,us-east-1,Client.DryRunOperation,35.173.217.186
+e1c9b89e-d73e-42ad-9d18-fc4a718d574f,"2020-06-21, 05:59:59 PM",749678902839,CreateNetworkInterface,EC2 VPC and 3 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-025e5eb4b2088a697""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""default""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-06755cc9187512efd""}]",,us-east-1,,18.215.147.223
+65b66226-b7b2-427b-8631-f0786d6606df,"2020-06-21, 05:59:55 PM",awslambda_874_20200621122955126,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,54.89.243.61
+dd49dfa4-165f-4a30-9916-a40a0161a909,"2020-06-21, 05:59:55 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+bf5aaee0-4518-4822-a490-091ddf29bbad,"2020-06-21, 05:59:52 PM",awslambda_217_20200621122952461,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,34.234.87.242
+c457c02d-dfd8-4052-88fa-91ee22133fb4,"2020-06-21, 05:59:52 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+03e30ff8-b158-4bd7-9a5a-f69943f0e16e,"2020-06-21, 05:59:50 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+07c4bf94-01fb-4e94-b4eb-80fbbb253a93,"2020-06-21, 05:59:48 PM",devops,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+dcdad002-5b0e-4bbd-901f-127959e90b58,"2020-06-21, 05:59:45 PM",devops,PutRetentionPolicy,,,,us-east-1,,49.207.204.98
+062e4220-55aa-4038-b9d6-c3b247d4e45f,"2020-06-21, 05:59:44 PM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""AROA3S472O2ASIBEB4UOC""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""arn:aws:iam::796514743937:role/iam_for_lambda""}]",,us-east-1,,49.207.204.98
+360f0ba9-ae9e-46fd-be56-0e0c68aab548,"2020-06-21, 05:59:44 PM",devops,CreatePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""lambda_logging""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""ANPA3S472O2AVYD65VQ35""}]",,us-east-1,,49.207.204.98
+b9f2c650-5acf-4c13-91b8-52a7c17ab978,"2020-06-21, 05:59:44 PM",devops,CreateLogGroup,,,,us-east-1,,49.207.204.98
+3e588f3a-3599-4a70-b434-eebd00b81b12,"2020-06-21, 05:56:02 PM",devops,DeleteRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+c19f745d-b264-4117-b285-c614f0c4aebd,"2020-06-21, 05:56:02 PM",devops,DeletePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""}]",,us-east-1,,49.207.204.98
+d6f45207-243c-4348-a1bc-77279ad2866a,"2020-06-21, 05:56:02 PM",devops,DeletePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_vpc_access""}]",,us-east-1,,49.207.204.98
+359280f9-bc15-46bb-b362-add12b8e1d53,"2020-06-21, 05:56:01 PM",devops,DeleteLogGroup,,,,us-east-1,,49.207.204.98
+7b5b7862-e04f-4387-9a45-5807f2ee31a2,"2020-06-21, 05:52:20 PM",root,GenerateServiceLastAccessedDetails,,,,us-east-1,,49.207.204.98
+c0025134-f832-4c7d-b96e-d905ef7a1254,"2020-06-21, 05:51:09 PM",devops,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging, arn:aws:iam::796514743937:policy/lambda_vpc_access""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,InvalidInputException,49.207.204.98
+b5ad5d1e-b4ba-4f8e-b539-206a2b010c77,"2020-06-21, 05:51:06 PM",devops,PutRetentionPolicy,,,,us-east-1,,49.207.204.98
+7458ba31-c886-47f5-86e6-28738ebec449,"2020-06-21, 05:51:05 PM",devops,CreatePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""lambda_logging""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""ANPA3S472O2ASR57WJP3I""}]",,us-east-1,,49.207.204.98
+7982ac11-8a48-4f15-97a4-17441fd20be0,"2020-06-21, 05:51:05 PM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""AROA3S472O2A5VNJODZRN""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""arn:aws:iam::796514743937:role/iam_for_lambda""}]",,us-east-1,,49.207.204.98
+af6eb4fb-8b8b-4257-872e-6d7efaf510fe,"2020-06-21, 05:51:05 PM",devops,CreatePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""lambda_vpc_access""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_vpc_access""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""ANPA3S472O2AZFOIXZ5HB""}]",,us-east-1,,49.207.204.98
+d42ef60e-cef3-48ef-9ebe-757e0699aa7a,"2020-06-21, 05:51:05 PM",devops,CreateLogGroup,,,,us-east-1,,49.207.204.98
+d820f3f1-7748-4642-9f85-fc80ac7fff61,"2020-06-21, 05:38:43 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+537083e0-2841-44f4-a37e-c4fbdd39cf1c,"2020-06-21, 05:38:41 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+6a04e6a3-e392-4530-9342-54594fb12e44,"2020-06-21, 05:38:41 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+8ee89a1e-b6f2-4921-836b-6e69d789648d,"2020-06-21, 05:38:41 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+32f8aa44-4168-4610-84c3-2cc0237ffe8e,"2020-06-21, 05:38:40 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+bb629a7f-e459-4d49-b258-a49b677474dd,"2020-06-21, 05:06:43 PM",devops,DeleteRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+feaf505a-6978-45ce-b318-8a838c72f52a,"2020-06-21, 05:06:43 PM",devops,DeletePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""}]",,us-east-1,,49.207.204.98
+25afbdef-73b0-4c6b-8527-14769339e034,"2020-06-21, 05:06:40 PM",devops,DetachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+c1065ea3-91cf-453c-ab0c-1119d0dc3c9f,"2020-06-21, 05:06:40 PM",devops,DeleteLogGroup,,,,us-east-1,,49.207.204.98
+846b58dd-3c6b-4d4d-a73b-33c70edbdf8c,"2020-06-21, 05:05:59 PM",awslambda_797_20200621113559160,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,34.233.124.158
+9d7a3a62-afd0-48dd-92f2-673d4d3f448b,"2020-06-21, 05:05:59 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+1fde0c07-6860-4e65-86f0-19b9e9c00ed5,"2020-06-21, 05:05:48 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+60d55bf8-9c18-4878-b414-f46e01f1f860,"2020-06-21, 05:05:48 PM",awslambda_164_20200621113536117,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,54.164.177.93
+5bff89d8-4ca2-4041-a4f5-2eab1d4b8101,"2020-06-21, 05:05:36 PM",awslambda_164_20200621113536117,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,54.164.177.93
+aa586f19-d940-4db1-9581-10730661cc93,"2020-06-21, 05:05:36 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+4bb04ee1-444e-420b-920e-eae163d3fc76,"2020-06-21, 05:05:26 PM",awslambda_13_20200621113526527,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,34.239.133.17
+4e469094-bc79-46cd-abeb-45d0f94fed77,"2020-06-21, 05:05:26 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+1c034c41-f7a8-4bca-ab08-57abf76a452d,"2020-06-21, 05:05:21 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+642c848f-233d-4589-b5d1-67fe6248fb93,"2020-06-21, 05:05:21 PM",awslambda_382_20200621113520998,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,52.90.164.194
+18404a0b-d139-46f5-95c1-6f7db5bd3489,"2020-06-21, 05:05:17 PM",awslambda_287_20200621113516855,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,18.209.112.15
+58c69572-9a06-4e0a-9331-6defb90b3559,"2020-06-21, 05:05:17 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+8c85a9d6-9f90-4972-a6b9-0f980b2d0f9d,"2020-06-21, 05:05:14 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+9502851f-1304-4753-bc5d-f81ee161cb26,"2020-06-21, 05:05:14 PM",awslambda_928_20200621113513843,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,34.228.40.80
+6b3d1b4f-e67e-4a47-86ea-09ffa5a63153,"2020-06-21, 05:05:11 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+c8494031-2cf8-4292-b6a2-3f79a92d8fbd,"2020-06-21, 05:05:11 PM",awslambda_485_20200621113511098,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,3.80.158.71
+fb66c8e1-24da-4fb8-96b9-4da126d6669b,"2020-06-21, 05:05:08 PM",devops,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+083cda1c-1bfd-4ab7-b747-b89cf4b0232d,"2020-06-21, 05:05:05 PM",devops,PutRetentionPolicy,,,,us-east-1,,49.207.204.98
+bd0de3c0-6076-4ca3-90ad-cc2bad24b620,"2020-06-21, 05:05:04 PM",devops,CreatePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""lambda_logging""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""ANPA3S472O2AZJ6VQXD5K""}]",,us-east-1,,49.207.204.98
+c4de8542-6aaf-4917-a6bf-19f3a3b414b2,"2020-06-21, 05:05:04 PM",devops,CreateLogGroup,,,,us-east-1,,49.207.204.98
+8cf192f4-b4fb-4890-93d2-9c6b0f450432,"2020-06-21, 04:46:32 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+abe6510d-f059-472d-ae84-df56a0bd4930,"2020-06-21, 04:46:32 PM",awslambda_393_20200621111632292,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,54.198.52.97
+620dd5bc-d514-4e31-847b-21f012bdb2d2,"2020-06-21, 04:46:21 PM",awslambda_316_20200621111620772,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,54.226.118.13
+db38be49-2dde-4c67-8924-7deb844d1424,"2020-06-21, 04:46:21 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+50fb76b9-8fcc-4b12-9271-3f6e50c5c42a,"2020-06-21, 04:46:09 PM",awslambda_490_20200621111609056,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,107.23.161.118
+c7c8c3ff-de46-4319-91f1-312fc9358401,"2020-06-21, 04:46:09 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+546ecdce-743f-4f79-8e25-6fc53a723b90,"2020-06-21, 04:45:57 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+baadc304-f366-4492-8a9c-1b0aced82b1b,"2020-06-21, 04:45:57 PM",awslambda_725_20200621111557419,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,54.145.159.68
+0019d928-74fd-49c6-bf80-9e625fc01e1e,"2020-06-21, 04:45:47 PM",awslambda_931_20200621111547561,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,35.172.212.39
+ce17e354-cd4e-4442-a83f-c50fbee36586,"2020-06-21, 04:45:47 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+1d8075cf-750c-41a4-b7b1-112c672efdd2,"2020-06-21, 04:45:42 PM",awslambda_477_20200621111541731,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,54.90.83.93
+95e1425b-3309-4c59-8d06-5fa779b749d1,"2020-06-21, 04:45:42 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+e93d54fa-2fcc-4e47-8d6f-2142f0248dd9,"2020-06-21, 04:45:38 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+aaba8c76-63f4-44f1-87e6-238693a1df1f,"2020-06-21, 04:45:35 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+d663252b-9eec-4513-97e6-a0ad306bcca7,"2020-06-21, 04:45:34 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+bd0be15d-033b-41ee-b344-9e3c02170936,"2020-06-21, 04:45:31 PM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""AROA3S472O2AS7FA5DFPH""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""arn:aws:iam::796514743937:role/iam_for_lambda""}]",,us-east-1,,49.207.204.98
+353b8754-606e-49a3-bc27-152c652426f8,"2020-06-21, 04:33:56 PM",root,DetachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/service-role/AWSLambdaVPNExecutionRole-1f805d36-6e26-489e-b36f-74dc6e902043""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""myLambdaVPC""}]",,us-east-1,,49.207.204.98
+4196befa-1b73-4132-9513-2d64d39a27b7,"2020-06-21, 04:33:56 PM",root,DeleteRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""myLambdaVPC""}]",,us-east-1,,49.207.204.98
+4e77300b-d51b-481d-b406-c4797d1c1aab,"2020-06-21, 04:33:56 PM",root,DetachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""mylambdaVPCRole""}]",,us-east-1,,49.207.204.98
+d63f655f-7c61-494c-bd02-456f0c1534a7,"2020-06-21, 04:33:56 PM",root,DetachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/AmazonVPCFullAccess""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""mylambdaVPCRole""}]",,us-east-1,,49.207.204.98
+fa7087d1-5314-476c-abaa-0f691be556e5,"2020-06-21, 04:33:56 PM",root,DetachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/service-role/AWSLambdaBasicExecutionRole-bc1001ff-83c7-4295-80e2-3bf06a4d7760""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""myLambdaVPC""}]",,us-east-1,,49.207.204.98
+fdf1629b-7fed-4402-999b-d817088403d0,"2020-06-21, 04:33:56 PM",root,DeleteRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""mylambdaVPCRole""}]",,us-east-1,,49.207.204.98
+7100d39e-0b3f-4760-ac00-28211c08b622,"2020-06-21, 04:24:38 PM",749678902839,DeleteNetworkInterface,EC2 NetworkInterface,"[{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-0aa15f5f80ceda397""}]",,us-east-1,,52.91.113.57
+330fc4e0-dc3c-4d33-8383-1d90a2fd62e6,"2020-06-21, 04:19:35 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+0ada71da-d466-4771-9d9b-a762e815ed00,"2020-06-21, 04:19:23 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+b9b1e76e-24c3-4f72-8ff5-dc985cd0fbd2,"2020-06-21, 04:19:12 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+45198abc-18a2-4a8e-b8ba-2f5019a2f069,"2020-06-21, 04:19:01 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+c51b7130-450e-4913-bab1-c7884fcc1e69,"2020-06-21, 04:18:52 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+bf922f09-fafd-4857-b897-79eb4377a0d5,"2020-06-21, 04:18:46 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+45e89035-158b-4556-a509-8322138b3e04,"2020-06-21, 04:18:43 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+7e3b5ad3-599a-4d11-a028-0a14f941c2b7,"2020-06-21, 04:18:41 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+45df0a55-ff34-4a61-aeee-018a567664e7,"2020-06-21, 04:18:39 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+6b32a16e-1ef8-42e7-822f-f34bb5952357,"2020-06-21, 04:15:48 PM",myvpcTest,CreateLogStream,,,,us-east-1,AccessDenied,107.21.75.3
+8967bdf8-f1b9-4aea-bb7b-f893e79801bb,"2020-06-21, 04:15:48 PM",myvpcTest,CreateLogStream,,,,us-east-1,AccessDenied,107.21.75.3
+2afe3204-b843-4906-86fe-996712912902,"2020-06-21, 04:15:47 PM",myvpcTest,CreateLogStream,,,,us-east-1,AccessDenied,107.21.75.3
+7610958d-01ea-41ef-aae5-e567ee1adcf1,"2020-06-21, 04:15:47 PM",myvpcTest,CreateLogStream,,,,us-east-1,AccessDenied,107.21.75.3
+90305e2c-d9c8-4202-aed4-f119601b904b,"2020-06-21, 04:15:47 PM",myvpcTest,CreateLogStream,,,,us-east-1,AccessDenied,107.21.75.3
+49e972c6-8425-4352-825e-2fc71361873a,"2020-06-21, 04:15:41 PM",root,UpdateFunctionConfiguration20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""myvpcTest""}]",,us-east-1,,49.207.204.98
+9caa8bf8-88c4-4f2f-ba21-cd692351f425,"2020-06-21, 04:15:06 PM",749678902839,DeleteNetworkInterface,EC2 NetworkInterface,"[{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-00f98eab16f3bba14""}]",,us-east-1,,54.224.210.213
+cc87b6ec-25f2-405f-803d-cf5928903d4a,"2020-06-21, 04:15:06 PM",749678902839,DeleteNetworkInterface,EC2 NetworkInterface,"[{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-00b74a9a62e08da2a""}]",,us-east-1,,54.224.210.213
+d22128a6-ea0d-4ef8-a29a-c3f957496325,"2020-06-21, 04:14:12 PM",749678902839,DeleteNetworkInterface,EC2 NetworkInterface,"[{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-02aa22ab39d417070""}]",,us-east-1,,54.224.210.213
+dd068b10-87e4-44d6-b7a5-a4169b501da8,"2020-06-21, 04:14:07 PM",devops,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""greet_lambda""}]",,us-east-1,,49.207.204.98
+659debe2-5f98-4c49-8907-9004ee43564a,"2020-06-21, 04:11:47 PM",greet_lambda,CreateLogStream,,,,us-east-1,,18.232.90.51
+1ccbf36e-8202-4ca0-a8ec-378982b286e1,"2020-06-21, 04:08:58 PM",awslambda_374_20200621103857563,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-06755cc9187512efd""}]",,us-east-1,Client.DryRunOperation,54.91.136.199
+6a1ea658-5e98-4c25-82cd-be9d10c18ac9,"2020-06-21, 04:08:58 PM",749678902839,CreateNetworkInterface,EC2 VPC and 3 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-00f98eab16f3bba14""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""default""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-06755cc9187512efd""}]",,us-east-1,,3.86.255.50
+9545cf72-c889-4654-8471-121bc1439e6a,"2020-06-21, 04:08:58 PM",awslambda_374_20200621103857563,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.DryRunOperation,54.91.136.199
+9ff0cc9d-940d-4158-a24e-9d4a9b0a6d7e,"2020-06-21, 04:08:58 PM",devops,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""greet_lambda""}]",,us-east-1,,49.207.204.98
+a5c8bbcc-0804-489f-a9ff-6e836328bed6,"2020-06-21, 04:08:58 PM",awslambda_374_20200621103857563,DeleteNetworkInterface,,,,us-east-1,Client.DryRunOperation,54.91.136.199
+a8b043d3-e4e4-41a7-8ff9-dab0cec0704b,"2020-06-21, 04:08:58 PM",749678902839,CreateNetworkInterface,EC2 VPC and 3 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-0aa15f5f80ceda397""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""default""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,3.86.255.50
+9c04c8fc-2694-4910-8e36-fff81e717894,"2020-06-21, 04:08:08 PM",devops,DeleteLogGroup,,,,us-east-1,,49.207.204.98
+a3eddab7-eb04-4b53-a293-e96f29c6ba20,"2020-06-21, 04:08:07 PM",devops,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""greet_lambda""}]",,us-east-1,,49.207.204.98
+7e936156-b843-406b-9ef8-19cf3fde9572,"2020-06-21, 03:09:36 PM",greet_lambda,CreateLogStream,,,,us-east-1,,34.235.118.80
+0efeb1cb-ef98-4c2a-a58f-d94841e86c92,"2020-06-21, 03:07:29 PM",devops,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""greet_lambda""}]",,us-east-1,,49.207.204.98
+117ad32d-853a-4456-9288-885b4624e3f2,"2020-06-21, 03:07:29 PM",749678902839,CreateNetworkInterface,EC2 VPC and 3 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-02aa22ab39d417070""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""default""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,52.202.210.82
+b35e0bbf-9067-4d3a-a620-346cfeea7d6d,"2020-06-21, 03:07:29 PM",749678902839,CreateNetworkInterface,EC2 VPC and 3 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-00b74a9a62e08da2a""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""default""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-06755cc9187512efd""}]",,us-east-1,,52.202.210.82
+45dc05f7-eb67-4ab1-be06-4580c6e13afa,"2020-06-21, 03:07:28 PM",awslambda_336_20200621093728216,DeleteNetworkInterface,,,,us-east-1,Client.DryRunOperation,54.152.73.226
+7040af6e-1171-4362-ad46-0dc915765567,"2020-06-21, 03:07:28 PM",awslambda_336_20200621093728216,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-06755cc9187512efd""}]",,us-east-1,Client.DryRunOperation,54.152.73.226
+b327df5b-09ca-4bc8-8c41-f98eb577ece2,"2020-06-21, 03:07:28 PM",awslambda_336_20200621093728216,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.DryRunOperation,54.152.73.226
+4e53e3ac-e7ea-46bf-8fee-b86fb9b33496,"2020-06-21, 03:07:24 PM",devops,PutRetentionPolicy,,,,us-east-1,,49.207.204.98
+109ac7a5-e26d-4ae1-ab62-cafb186ad1a6,"2020-06-21, 03:07:23 PM",devops,CreateLogGroup,,,,us-east-1,,49.207.204.98
+bd4f45f0-4e72-4855-90bb-11e7f174b682,"2020-06-21, 03:05:11 PM",myvpcTest,CreateLogStream,,,,us-east-1,,54.198.186.218
+a51fcec2-1c78-4f8e-b273-450182198fa9,"2020-06-21, 03:05:08 PM",root,UpdateFunctionCode20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""myvpcTest""}]",,us-east-1,,49.207.204.98
+76cca491-807d-4818-ad00-90638cb9a98f,"2020-06-21, 03:03:02 PM",myvpcTest,CreateLogStream,,,,us-east-1,,54.197.194.250
+ddb8534c-a02a-43f1-aa2a-f6b24cdfa5e2,"2020-06-21, 03:02:59 PM",root,UpdateFunctionCode20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""myvpcTest""}]",,us-east-1,,49.207.204.98
+40d06ef6-6ffb-494a-9062-9696f1e46a76,"2020-06-21, 03:02:24 PM",myvpcTest,CreateLogStream,,,,us-east-1,,100.26.58.198
+a3075f4b-4bd7-476b-af2d-ae493aa763c7,"2020-06-21, 03:02:18 PM",root,UpdateFunctionCode20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""myvpcTest""}]",,us-east-1,,49.207.204.98
+0d84e490-359c-4b33-a805-a1729326d459,"2020-06-21, 03:01:42 PM",myvpcTest,CreateLogStream,,,,us-east-1,,34.204.80.137
+d5b51d4f-61ab-4a6c-b62a-80ef0ec422a1,"2020-06-21, 03:01:39 PM",root,UpdateFunctionCode20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""myvpcTest""}]",,us-east-1,,49.207.204.98
+d8cc9d1b-d8a7-4399-aec0-5d6fe126d025,"2020-06-21, 03:01:02 PM",749678902839,DeleteNetworkInterface,EC2 NetworkInterface,"[{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-0bf5f107fd268abc5""}]",,us-east-1,,3.92.169.234
+7ac42bd7-ed51-43cd-8125-22038976c3b9,"2020-06-21, 03:00:42 PM",myvpcTest,CreateLogStream,,,,us-east-1,,54.172.244.101
+a1b131ac-66f4-4827-a3a5-e3b533e9495a,"2020-06-21, 03:00:29 PM",root,UpdateFunctionCode20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""myvpcTest""}]",,us-east-1,,49.207.204.98
+2eb0e383-b3ce-4669-8cf3-e384bc80ec66,"2020-06-21, 03:00:10 PM",749678902839,DeleteNetworkInterface,EC2 NetworkInterface,"[{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-038919fa948b85b24""}]",,us-east-1,,3.92.169.234
+6d63fad3-8a71-4c5b-af8e-e0f4551af537,"2020-06-21, 02:59:06 PM",devops,DeleteLogGroup,,,,us-east-1,,49.207.204.98
+2fc8cfbb-9466-4411-91bb-68111dd9d455,"2020-06-21, 02:59:05 PM",devops,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""greet_lambda""}]",,us-east-1,,49.207.204.98
+2a7901b4-5ddb-4ab2-919c-e20123f7b16c,"2020-06-21, 02:52:23 PM",greet_lambda,CreateLogGroup,,,,us-east-1,,54.196.41.90
+95e14061-2a80-4650-828e-1af818f909e5,"2020-06-21, 02:52:23 PM",greet_lambda,CreateLogStream,,,,us-east-1,ResourceNotFoundException,54.196.41.90
+e6b7fe24-b960-4fbd-a248-891732a4cf40,"2020-06-21, 02:52:23 PM",greet_lambda,CreateLogStream,,,,us-east-1,,54.196.41.90
+0707d2e7-d401-4a1f-a748-fc3350b56d19,"2020-06-21, 02:50:03 PM",749678902839,CreateNetworkInterface,EC2 VPC and 3 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-0bf5f107fd268abc5""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""default""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-06755cc9187512efd""}]",,us-east-1,,184.72.214.245
+aebc5838-d1ec-4995-91d2-d1f256c03a1f,"2020-06-21, 02:50:03 PM",749678902839,CreateNetworkInterface,EC2 VPC and 3 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-038919fa948b85b24""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""default""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,184.72.214.245
+dfb2b4f6-d662-4b89-b3eb-440e8682e18c,"2020-06-21, 02:50:03 PM",devops,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""greet_lambda""}]",,us-east-1,,49.207.204.98
+1c93a416-762f-4811-89f5-f6f2217870e2,"2020-06-21, 02:50:02 PM",awslambda_844_20200621092002383,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-06755cc9187512efd""}]",,us-east-1,Client.DryRunOperation,54.152.171.44
+27895f36-1aa1-4509-a128-447527bd249e,"2020-06-21, 02:50:02 PM",awslambda_844_20200621092002383,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.DryRunOperation,54.152.171.44
+ed055b1e-2f8e-4c41-badd-77bc5c6aabca,"2020-06-21, 02:50:02 PM",awslambda_844_20200621092002383,DeleteNetworkInterface,,,,us-east-1,Client.DryRunOperation,54.152.171.44
+1385e6f9-f26b-4912-be26-a16609b2be3a,"2020-06-21, 02:48:47 PM",devops,PutRetentionPolicy,,,,us-east-1,,49.207.204.98
+a45f53ea-2c22-46a9-81fb-fbff57686d9e,"2020-06-21, 02:48:45 PM",devops,CreateLogGroup,,,,us-east-1,,49.207.204.98
+85c68000-7c7c-4f1b-b271-ba3f368ad618,"2020-06-21, 02:48:17 PM",root,DeleteLogGroup,,,,us-east-1,,49.207.204.98
+a47b22f2-b139-4ae3-b948-f692e15c3dc8,"2020-06-21, 02:46:31 PM",devops,PutRetentionPolicy,,,,us-east-1,,49.207.204.98
+d5b6238b-0678-4608-b264-aa06dc0c9c03,"2020-06-21, 02:46:30 PM",devops,CreateLogGroup,,,,us-east-1,,49.207.204.98
+0e26f69c-615c-4758-90dc-74a3e3438d02,"2020-06-21, 01:39:25 PM",myvpcTest,CreateLogStream,,,,us-east-1,ResourceNotFoundException,3.91.43.123
+5bc19768-067d-4804-a417-08201c4bd46d,"2020-06-21, 01:39:25 PM",myvpcTest,CreateLogStream,,,,us-east-1,,3.91.43.123
+6fcf3d2e-d4e1-47d0-983d-2f7b1bbffe23,"2020-06-21, 01:39:25 PM",myvpcTest,CreateLogGroup,,,,us-east-1,,3.91.43.123
+3b2f8d6a-de02-4a50-9821-ec2b952cb42b,"2020-06-21, 01:38:30 PM",root,GenerateServiceLastAccessedDetails,,,,us-east-1,,49.207.204.98
+a4b6f035-eb69-4048-a782-fdb62e17b153,"2020-06-21, 01:38:15 PM",root,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""mylambdaVPCRole""}]",,us-east-1,,49.207.204.98
+1acd34d1-70ec-4e49-a6b8-ab5bec442add,"2020-06-21, 01:34:49 PM",awslambda_567_20200621080448442,DeleteNetworkInterface,,,,us-east-1,Client.DryRunOperation,54.85.142.76
+63a4bea0-ee7e-4997-be9f-32670b6bb18e,"2020-06-21, 01:34:49 PM",749678902839,CreateNetworkInterface,EC2 VPC and 3 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-05c0db97e260a046e""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0a9210e8cc96fdfd4""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Application""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,184.72.214.245
+c5944fe1-829c-4951-8ff3-e38ab1221238,"2020-06-21, 01:34:49 PM",749678902839,CreateNetworkInterface,EC2 VPC and 3 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-07a53355cd4b7cac2""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0a9210e8cc96fdfd4""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Application""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-06755cc9187512efd""}]",,us-east-1,,184.72.214.245
+e0caf33e-8c44-44dd-a58c-381e285803f5,"2020-06-21, 01:34:49 PM",root,UpdateFunctionConfiguration20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""myvpcTest""}]",,us-east-1,,49.207.204.98
+846b9df3-b3da-46b4-8e4f-90857ebc9dd7,"2020-06-21, 01:34:48 PM",awslambda_567_20200621080448442,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0a9210e8cc96fdfd4""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.DryRunOperation,54.85.142.76
+8da925c2-1352-4648-8a53-e7a02a32d038,"2020-06-21, 01:34:48 PM",awslambda_567_20200621080448442,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0a9210e8cc96fdfd4""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-06755cc9187512efd""}]",,us-east-1,Client.DryRunOperation,54.85.142.76
+2aa0ad5f-8261-46b2-89ed-b3329f50b828,"2020-06-21, 01:34:19 PM",root,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""myvpcTest""}]",,us-east-1,,49.207.204.98
+a58a7f60-d0bc-4d84-96df-7ccf671d33fc,"2020-06-21, 01:33:47 PM",root,GenerateServiceLastAccessedDetails,,,,us-east-1,,49.207.204.98
+e865584e-4dba-41ad-afe0-ab25778c2e8f,"2020-06-21, 01:33:23 PM",root,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/AmazonVPCFullAccess""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""mylambdaVPCRole""}]",,us-east-1,,49.207.204.98
+0e575508-a7ff-41ab-9b09-38ad3d1ac497,"2020-06-21, 01:33:22 PM",root,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""AROA3S472O2A5ZCLZQQYB""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""arn:aws:iam::796514743937:role/mylambdaVPCRole""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""mylambdaVPCRole""}]",,us-east-1,,49.207.204.98
+a08df31d-ef17-47ef-8a83-f8f78ef2b01f,"2020-06-21, 01:31:58 PM",root,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""myTest""}]",,us-east-1,,49.207.204.98
+d3ccc3e7-12bc-4ce2-a954-2dcd80db3bfc,"2020-06-21, 01:31:29 PM",awslambda_260_20200621080129108,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0a9210e8cc96fdfd4""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,54.159.104.18
+e1fd4764-d46a-49b4-9f7f-be9948b8d68c,"2020-06-21, 01:31:29 PM",root,UpdateFunctionConfiguration20150331v2,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+79bb5354-9193-42bd-b2ef-fb6cce742f9c,"2020-06-21, 01:30:56 PM",root,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""myTest""}]",,us-east-1,,49.207.204.98
+c750da7f-35a6-4b1c-8fc3-74a19c01a3f1,"2020-06-21, 01:30:52 PM",root,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+fa41f3f0-685c-4e9a-978e-5bbbfd6e809b,"2020-06-21, 01:30:49 PM",root,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+daec45ce-44d3-483d-a3b2-22333b30d14d,"2020-06-21, 01:30:48 PM",root,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+1689cb46-cc45-46c2-9dca-9cb226c15ad5,"2020-06-21, 01:30:47 PM",root,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/service-role/AWSLambdaVPNExecutionRole-1f805d36-6e26-489e-b36f-74dc6e902043""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""myLambdaVPC""}]",,us-east-1,,49.207.204.98
+48640f3d-8aac-4975-a561-21a4cc35777a,"2020-06-21, 01:30:47 PM",root,CreatePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""ANPA3S472O2AYOIHZQZHK""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""AWSLambdaVPNExecutionRole-1f805d36-6e26-489e-b36f-74dc6e902043""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/service-role/AWSLambdaVPNExecutionRole-1f805d36-6e26-489e-b36f-74dc6e902043""}]",,us-east-1,,49.207.204.98
+ae1b9485-c0d1-4ee1-a9ac-66b071e1030a,"2020-06-21, 01:30:47 PM",root,CreateRole,,,,us-east-1,,49.207.204.98
+b19a2df6-386e-4c7f-a967-40bc494f1d8c,"2020-06-21, 01:30:47 PM",root,CreatePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/service-role/AWSLambdaBasicExecutionRole-bc1001ff-83c7-4295-80e2-3bf06a4d7760""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""ANPA3S472O2AQSANCQVD4""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""AWSLambdaBasicExecutionRole-bc1001ff-83c7-4295-80e2-3bf06a4d7760""}]",,us-east-1,,49.207.204.98
+b778d410-cc5e-490c-8964-0010b74c5ed3,"2020-06-21, 01:30:47 PM",root,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/service-role/AWSLambdaBasicExecutionRole-bc1001ff-83c7-4295-80e2-3bf06a4d7760""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""myLambdaVPC""}]",,us-east-1,,49.207.204.98
+0fa0674d-6c96-469b-a0d9-cccf1a4ef676,"2020-06-21, 01:29:44 PM",root,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""mytestVpc""}]",,us-east-1,,49.207.204.98
+81e89d2e-ff06-47e5-bd81-a3d737f5aacd,"2020-06-21, 01:29:29 PM",awslambda_870_20200621075929100,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-06755cc9187512efd""}]",,us-east-1,Client.UnauthorizedOperation,18.234.209.37
+a8eedf65-b9c3-42c6-b554-aef695faa3ab,"2020-06-21, 01:29:29 PM",root,UpdateFunctionConfiguration20150331v2,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+4150f918-c081-4551-acdc-37b9e1f6eb42,"2020-06-21, 01:28:53 PM",root,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""mytestVpc""}]",,us-east-1,,49.207.204.98
+29f5da33-8bfd-4bb6-b135-9a7283e1490e,"2020-06-21, 01:28:48 PM",root,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+ee0d776f-233e-42b2-b5b6-9b5087054af5,"2020-06-21, 01:28:46 PM",root,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+f43afe10-4315-4ff8-8655-cda4db69a829,"2020-06-21, 01:28:45 PM",root,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+29824e0b-84d0-447f-936b-024c7f5db671,"2020-06-21, 01:28:44 PM",root,CreateRole,,,,us-east-1,,49.207.204.98
+c9d8e1b0-cfe1-4f87-8451-f3d3d5abe4dc,"2020-06-21, 01:28:44 PM",root,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/service-role/AWSLambdaBasicExecutionRole-c3d0437d-8a41-43c5-8c0d-ebf9bfc35e86""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""mytestVpc-role-stg82hvu""}]",,us-east-1,,49.207.204.98
+f048be29-7e24-401c-b23e-607eaef3ac81,"2020-06-21, 01:28:44 PM",root,CreatePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/service-role/AWSLambdaBasicExecutionRole-c3d0437d-8a41-43c5-8c0d-ebf9bfc35e86""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""AWSLambdaBasicExecutionRole-c3d0437d-8a41-43c5-8c0d-ebf9bfc35e86""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""ANPA3S472O2AWDZYURZUS""}]",,us-east-1,,49.207.204.98
+211b0c83-89bf-4e58-b346-6961477db417,"2020-06-21, 01:28:21 PM",root,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""testingVPC""}]",,us-east-1,,49.207.204.98
+68062d47-d1fa-45e2-bdad-76065165fe09,"2020-06-21, 01:27:36 PM",awslambda_841_20200621075735588,CreateNetworkInterface,EC2 SecurityGroup and 1 more,"[{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0a9210e8cc96fdfd4""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0fd5340acb76ccefd""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.UnauthorizedOperation,34.224.64.141
+cdb3b6b3-7339-46d4-a716-a0b0c51b0b09,"2020-06-21, 01:27:36 PM",root,UpdateFunctionConfiguration20150331v2,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+3418e035-f348-4516-9c74-a21c3cdaec4f,"2020-06-21, 01:25:19 PM",root,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""testingVPC""}]",,us-east-1,,49.207.204.98
+3390858d-2c34-4e36-9a1b-dfa741934f62,"2020-06-21, 01:18:28 PM",devops,DeletePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""}]",,us-east-1,,49.207.204.98
+a4ad731d-95c0-4515-81b3-e3b8a41d7f87,"2020-06-21, 01:18:28 PM",devops,DeleteRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+2148e7c8-f7eb-4cfe-a6e1-92debcfdd327,"2020-06-21, 01:18:26 PM",devops,DetachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+9f2a4657-f09a-4002-91ad-48333c2928fc,"2020-06-21, 01:18:26 PM",devops,DeleteLogGroup,,,,us-east-1,,49.207.204.98
+f3c79e79-13c4-4975-a28e-a8dd710de264,"2020-06-21, 01:18:25 PM",devops,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""greet_lambda""}]",,us-east-1,,49.207.204.98
+1d4ddf97-cad2-444d-9486-27fe1a50ec92,"2020-06-21, 01:12:47 PM",root,DeleteLogGroup,,,,us-east-1,,49.207.204.98
+549b8579-0f53-49d3-aa66-2a2050cb6d58,"2020-06-21, 01:12:46 PM",root,DeleteLogGroup,,,,us-east-1,,49.207.204.98
+6cb03cfb-58ae-4f6e-b8de-f90722eb35c8,"2020-06-21, 01:12:46 PM",root,DeleteLogGroup,,,,us-east-1,,49.207.204.98
+62f12de1-99bd-4efa-97aa-c842c47720e8,"2020-06-21, 01:11:36 PM",greet_lambda,CreateLogStream,,,,us-east-1,,18.207.157.184
+67babf2e-0e3c-40ea-87e3-1d4dc650483b,"2020-06-21, 01:11:36 PM",greet_lambda,CreateLogGroup,,,,us-east-1,,18.207.157.184
+ddee9124-45a6-4402-887e-b56b5d83d425,"2020-06-21, 01:11:36 PM",greet_lambda,CreateLogStream,,,,us-east-1,ResourceNotFoundException,18.207.157.184
+6a58d038-80fa-4f38-8740-9dba264f10b2,"2020-06-21, 01:06:53 PM",devops,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""greet_lambda""}]",,us-east-1,,49.207.204.98
+77cb55fe-0ff2-4817-9d7a-191053771d1b,"2020-06-21, 01:06:51 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+95eb1468-2649-4ac2-b6b8-edf71db61c2d,"2020-06-21, 01:06:49 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+3f3b4dbc-5dd3-4bfd-9f20-3a76ea80cdba,"2020-06-21, 01:06:47 PM",devops,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+9b099998-2e89-41c4-a445-3f0801723f6c,"2020-06-21, 01:06:44 PM",devops,PutRetentionPolicy,,,,us-east-1,,49.207.204.98
+298bf1cb-886d-428f-a2b5-46295f3d4c5d,"2020-06-21, 01:06:43 PM",devops,CreateLogGroup,,,,us-east-1,,49.207.204.98
+5acc18bd-6dc6-4371-988a-5f4e6c84c23f,"2020-06-21, 01:06:43 PM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""AROA3S472O2ARAFTECBAN""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""arn:aws:iam::796514743937:role/iam_for_lambda""}]",,us-east-1,,49.207.204.98
+9263ce99-f4cd-4a8a-b1c3-05b53bd92e2a,"2020-06-21, 01:06:43 PM",devops,CreatePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""lambda_logging""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""ANPA3S472O2A5ZUZKI5LI""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/lambda_logging""}]",,us-east-1,,49.207.204.98
+25e3fedb-2105-441e-be90-d697b575b690,"2020-06-21, 01:01:33 PM",root,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""greet_lambda""}]",,us-east-1,,49.207.204.98
+be9ad88b-5c3b-4f2f-815e-4284ff6722fc,"2020-06-21, 01:00:31 PM",root,UpdateFunctionConfiguration20150331v2,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+a93cdd35-d488-4969-8488-86fb6d112587,"2020-06-21, 01:00:14 PM",root,UpdateFunctionConfiguration20150331v2,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+d7c399de-7e77-40ff-a943-4c0b6d5b0fc9,"2020-06-21, 12:59:08 PM",root,DeleteRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+3a545f65-5ca3-4fdd-a371-25f123bbda0f,"2020-06-21, 12:26:01 PM",greet_lambda,CreateLogStream,,,,us-east-1,AccessDenied,3.219.234.187
+e6327412-06da-4806-8c78-a6f4dd3b269d,"2020-06-21, 12:25:59 PM",greet_lambda,CreateLogStream,,,,us-east-1,AccessDenied,3.219.234.187
+474ae88c-5c2a-4081-aa27-ccfa40074003,"2020-06-21, 12:25:58 PM",greet_lambda,CreateLogStream,,,,us-east-1,AccessDenied,3.219.234.187
+842b33aa-0a7c-4a83-b6a1-c47b7c935615,"2020-06-21, 12:25:58 PM",greet_lambda,CreateLogStream,,,,us-east-1,AccessDenied,3.219.234.187
+a9db2565-2675-4c8c-961a-ca19a832c9e9,"2020-06-21, 12:25:58 PM",greet_lambda,CreateLogStream,,,,us-east-1,AccessDenied,3.219.234.187
+023bd0e6-67f9-4a9b-b2d8-154842edd276,"2020-06-21, 12:25:24 PM",root,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""test_lambda""}]",,us-east-1,,49.207.204.98
+d40ec1fc-2415-4394-8532-20d05b1d6ea0,"2020-06-21, 12:25:18 PM",root,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""lambda_function_name""}]",,us-east-1,,49.207.204.98
+2cd21ac2-b9ab-4eb4-8e79-6e193358c27e,"2020-06-21, 12:25:13 PM",root,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""test2""}]",,us-east-1,,49.207.204.98
+0ab5e505-c6f1-45d4-8700-5d22a41846f7,"2020-06-21, 12:25:06 PM",root,DeleteFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""example""}]",,us-east-1,,49.207.204.98
+adef73b3-f729-4d8b-bb74-ad584b969d7a,"2020-06-21, 12:23:32 PM",devops,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""greet_lambda""}]",,us-east-1,,49.207.204.98
+29737b4f-a0f0-4577-9918-6cd14afa3e9f,"2020-06-21, 12:23:29 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+9e8e623f-56a8-41e2-a1aa-6aa05381ccb0,"2020-06-21, 12:23:27 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+c4b15c04-53f9-4814-87a1-571f4cb619bd,"2020-06-21, 12:23:26 PM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.204.98
+3ed5f349-24c2-40b5-8457-410cb828b2c7,"2020-06-21, 12:23:23 PM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""AROA3S472O2A626YQDZ7L""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""arn:aws:iam::796514743937:role/iam_for_lambda""}]",,us-east-1,,49.207.204.98
+189b393d-73f7-4d12-a03c-4fb66e1e081e,"2020-06-21, 11:39:52 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+db412982-56ce-4f60-87e6-47102a08dd8d,"2020-06-21, 11:39:52 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+571d03ad-66f0-4ae4-aa7e-6580d49eb2ec,"2020-06-21, 11:39:51 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+c75c5e8b-2692-43ed-8ff4-d216b583b847,"2020-06-21, 11:39:51 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+3747622b-3609-49ae-aec6-0688283d7495,"2020-06-21, 11:39:50 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+3dd0e35f-6828-4e3a-b556-f4152eb9c8ec,"2020-06-21, 11:39:50 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+2db030e0-f3e5-48bd-ba30-c0dcfb4e1ca8,"2020-06-21, 11:39:49 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+3bc71248-bfbc-41c7-ad12-eb4edebe9c27,"2020-06-21, 11:39:49 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+8ef5fa00-3676-487e-a80d-6b047038cda2,"2020-06-21, 11:39:49 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+d1f5b48c-d38e-4e79-a432-647c26c453e5,"2020-06-21, 11:39:49 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+eafd4934-2a47-458f-8546-a690fb7ae007,"2020-06-21, 11:39:49 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+f5191a41-e5a3-4547-b38a-b8fe4d1cf7c2,"2020-06-21, 11:39:49 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+fce4aeb4-5835-4074-942c-28543165bbd9,"2020-06-21, 11:39:49 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+11672407-ee3c-4049-9b06-9b0d2a8da2b3,"2020-06-21, 11:27:03 AM",root,DeleteRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda_1""}]",,us-east-1,,49.207.204.98
+cd14a622-0294-4cc2-bad6-146648596d24,"2020-06-21, 11:27:03 AM",root,DetachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/AWSLambdaFullAccess""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+e0e42ef6-77a2-4ef7-a18e-358e73fea898,"2020-06-21, 11:27:03 AM",root,DeleteRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.204.98
+9d97d931-0eee-4eda-9662-2f08ae6b3579,"2020-06-21, 11:26:37 AM",root,ConsoleLogin,,,,us-east-1,,49.207.204.98
+2e8e8504-e8a7-487e-a2c4-eca6701cbd62,"2020-06-21, 08:15:48 AM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+34b1dee7-6c97-40a5-ae13-f955af02c7dc,"2020-06-21, 08:13:48 AM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+fd7ec919-3ff3-472b-ad69-1b7a7208a759,"2020-06-21, 08:13:23 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+b011f7e6-5085-4761-8906-cbd6fd2d2f49,"2020-06-21, 08:12:55 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+ef467a06-1bc2-4cd4-8290-181936f2e54e,"2020-06-21, 08:12:55 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+063553ed-cbfc-4e36-85cf-25ea5c938279,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+0d358e53-bc0a-4843-b704-3c4a69979858,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+17d3b6a3-4903-4e1a-b512-f79af997230a,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+262a5706-91d2-467d-a938-14fcb9659bc9,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+29229602-c834-42c2-ad42-82288ab59338,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+294fd277-3848-4400-8a85-728f3e9f4bf9,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+33a8ea02-5a13-4a47-9478-f287fb1d93a1,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+76b6c571-51c9-489b-b01a-bf14d39fae52,"2020-06-21, 08:12:54 AM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+7cde5258-e8c2-4f80-8f29-36f72b48086f,"2020-06-21, 08:12:54 AM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+8256d5af-1af3-464a-84d8-a17f7e2e7dd7,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+a4fb8a58-54f1-4929-ab7e-585775a986c7,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+b2252b7d-e610-4a98-9646-accf6bd4fd83,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+b4490567-6116-4dc5-a515-2e2c151ef1fb,"2020-06-21, 08:12:54 AM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+c540b5a9-1646-4505-97ea-7b6795f005c4,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+c8ab5415-9a4a-48d5-9c7d-b6654cfbf00c,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+dd75934c-0cf7-425d-9ef9-137f6a99403d,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+e586d34c-505c-4646-a69e-4c2e946889e7,"2020-06-21, 08:12:54 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+29391a11-aff1-45a8-8a47-29d054bca8a7,"2020-06-21, 08:12:53 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+39ef86a6-2dba-44da-a0c7-f5ec4f7e0d5f,"2020-06-21, 08:12:53 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+454d2da9-cada-4203-87d5-746ed7f3519c,"2020-06-21, 08:12:53 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+50c62fcb-03dd-4c87-ba00-0ed9478ca1f1,"2020-06-21, 08:12:53 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+58318169-8e86-496a-8f26-9339397468a9,"2020-06-21, 08:12:53 AM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+6038c581-5e3a-4f9f-9241-312591f24f8b,"2020-06-21, 08:12:53 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+69c77301-a891-479d-b2dd-a8229c56b887,"2020-06-21, 08:12:53 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+99b43ae7-0ba2-42e5-aee8-2ed983ea15f3,"2020-06-21, 08:12:53 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+a2d76d8e-b96c-48f2-b876-334b980f18cc,"2020-06-21, 08:12:53 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+ea556e0f-1bbb-4807-bdaa-4b0059525026,"2020-06-21, 08:12:53 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+ef899e8e-13b4-479f-94ea-2f765104af41,"2020-06-21, 08:12:53 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+f3901785-47f8-4327-990b-6d41a7a25dd5,"2020-06-21, 08:12:53 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+02d5a9ff-ad36-4cc8-bbbf-7e7f013adff9,"2020-06-21, 05:41:47 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+08d760b9-bb08-46ef-84da-640a4c119ce7,"2020-06-21, 05:41:47 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+3a0d9270-a676-4243-9955-7fd48631eba6,"2020-06-21, 05:41:47 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+50efc43b-881f-45ba-9f32-1c78995180ad,"2020-06-21, 05:41:47 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+a44ce902-9d09-44f2-8ba4-afcc56d2b64f,"2020-06-21, 05:41:47 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+a938f5b8-5597-4051-a94f-0cfbc6335f1f,"2020-06-21, 05:41:47 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+dc0bf30c-c088-40c5-92d1-d9c9192335c1,"2020-06-21, 05:41:47 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+04077e6a-9fa6-4c95-ab91-17e122eb2677,"2020-06-21, 05:41:46 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+572e53da-c23a-4622-b5a7-21e8907a1435,"2020-06-21, 05:41:46 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+4c1afe44-93f7-4793-bfa4-aae5eaa0244d,"2020-06-21, 05:41:45 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+b5909e93-71b6-4543-9569-4412cf0689bc,"2020-06-21, 05:41:45 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+0ca7ef2e-a20f-47cd-83db-96030dbdf930,"2020-06-20, 11:42:27 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+da07d440-ec66-401e-b4a4-ade3cc306390,"2020-06-20, 11:42:27 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+236bb071-0296-4bf5-8b51-27bb3c0bc0fe,"2020-06-20, 11:42:26 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+5a9ca225-853a-4341-8553-256d7f69e72b,"2020-06-20, 11:42:26 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+6982192a-20aa-440c-a754-928d8004a0b8,"2020-06-20, 11:42:26 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+6f008544-34a2-44c9-95a6-18b68c23a3f6,"2020-06-20, 11:42:26 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+7697cfa3-cef8-4603-9b2f-8762b661d912,"2020-06-20, 11:42:26 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+c4b4df33-6031-44f5-af2d-e8f428715706,"2020-06-20, 11:42:26 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+18a67f98-e5b1-43d9-9c0f-32eacae3aa3e,"2020-06-20, 11:42:25 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+1b55a19f-2a92-4b98-b7ba-42660bf910db,"2020-06-20, 11:42:24 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+60eb2041-a099-4085-94e1-f87b66824b52,"2020-06-20, 11:42:24 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+671b238b-573e-40e4-babf-9173030a9403,"2020-06-20, 11:42:24 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+68f3d32e-d488-47ac-876e-55775b13caa2,"2020-06-20, 11:42:24 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+9bc2be57-97cf-4580-bca4-612b4be759c8,"2020-06-20, 11:42:24 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+b3257916-daa1-4f0e-98df-8bbc5ff91ed3,"2020-06-20, 11:42:24 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+c8a5f084-13d6-4f00-bff5-202f0238d1e0,"2020-06-20, 11:42:24 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+2f0310b2-177c-449a-a2ad-de3f64545add,"2020-06-20, 08:16:09 PM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+292f3e54-ae76-494b-a005-a5162d370b4e,"2020-06-20, 08:14:05 PM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+a882c261-9401-4db0-8f37-45b61916ca37,"2020-06-20, 08:13:28 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+79f147d0-8e94-4f74-a053-b4486abfebdf,"2020-06-20, 08:13:00 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+e973c3a2-5ed6-4fc4-ad03-ad377f160ef7,"2020-06-20, 08:13:00 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+001c13f5-58fd-4ae7-91fa-27fd498bf53d,"2020-06-20, 08:12:59 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+02c6c122-bef6-4db7-b4b5-08f34609803b,"2020-06-20, 08:12:59 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+1714e52f-f446-4655-9a00-f4bf8c8e5107,"2020-06-20, 08:12:59 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+3d8b320a-cfaf-4fee-a5e5-094c208c00f9,"2020-06-20, 08:12:59 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+6cbd2d66-f361-4a25-8e12-9f66877318dd,"2020-06-20, 08:12:59 PM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+a8b8e1d7-f204-428f-865b-9694a7c55978,"2020-06-20, 08:12:59 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+becc89c3-a4fb-47e0-95c9-c51e1a6d7635,"2020-06-20, 08:12:59 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+c08cf540-840d-4900-be28-03758a485be2,"2020-06-20, 08:12:59 PM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+d6144383-c061-4e76-a16e-77187d992f19,"2020-06-20, 08:12:59 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+052ebd32-0d7f-4fee-ba44-144991bfba27,"2020-06-20, 08:12:58 PM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+0d6fd475-25aa-426a-a89e-bd3603186b02,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+14aba5dc-1428-4733-a066-8df155152480,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+226cd884-0866-4778-9ca0-92fbf4ba7550,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+3b1ef2b9-1c46-4514-882c-0b45930172cd,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+3d1c87c5-380e-4d93-b4a8-edc4fa222320,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+4134769d-fa44-483b-b8e8-f3a9eb33979b,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+4ca5e71f-e677-4e39-99b4-84162bad6583,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+4dfd1580-ddd6-458e-a797-91f7aad985cb,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+5fdd2899-0d79-4b50-aee3-cd8d38dab8e3,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+652eb7c4-381d-44a3-9128-953bc5a061cd,"2020-06-20, 08:12:58 PM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+67b7603d-1c8a-4b06-97bb-ff63b6170606,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+758b164d-04f1-4bfc-9033-7201bb95eb10,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+8a5fbf17-8be2-466e-a960-f3f083e4184b,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+902dcfe9-88ab-408b-97be-9b13dd58142b,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+c4232f56-5c11-42c3-9955-226f3ea4865b,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+d4ab3c22-9fc2-4e33-971e-4b568dfa6a85,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+d8717888-6d17-43ae-ab56-eaba94eb754c,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+ea071cf8-15df-4b7b-8765-a1170cfdd9f6,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+f2ce5273-3665-42e9-8670-24fb0c1c4ee9,"2020-06-20, 08:12:58 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+2241ad8c-5f8d-4204-b578-3a8a84a0585e,"2020-06-20, 11:39:42 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+9b973a44-c813-48ce-8adc-ef1a7a78c407,"2020-06-20, 11:39:42 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+a8f83b76-25a9-4a9b-bf08-06ea2410ca8d,"2020-06-20, 11:39:42 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+0cde58ba-10ab-4289-aeba-12860b7268d5,"2020-06-20, 11:39:41 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+e83b0480-1820-44ad-b49e-2787c6014941,"2020-06-20, 11:39:41 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+ff761d88-b2d3-4048-bb55-6e4e8b55a7d0,"2020-06-20, 11:39:41 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+52b525bd-0924-4bae-aeeb-31f3fbe7a1d3,"2020-06-20, 11:39:40 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+7f441672-699e-4493-aa5e-03dae8c174d5,"2020-06-20, 11:39:40 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+91c509eb-cd2a-4a77-8637-fd551ce16a1f,"2020-06-20, 11:39:40 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+92996d5a-cacd-41ba-a3d2-e18f81664be3,"2020-06-20, 11:39:40 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+eef86169-4493-4144-9cae-8768c8b08663,"2020-06-20, 11:39:40 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+05144094-f6ad-4f5d-89e7-689271d39537,"2020-06-20, 11:39:39 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+1b7222f1-a96b-4c46-a48b-b657af8088ba,"2020-06-20, 11:39:39 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+5855a238-c674-4b39-8e04-b4b16e5fadd9,"2020-06-20, 11:39:39 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+5e0e3155-f47a-4475-b0f3-d8c36553b123,"2020-06-20, 11:39:39 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+985f5d52-235f-4f48-a050-8f22711661db,"2020-06-20, 11:39:39 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+9d998975-6ace-4f99-bf6e-f2bc294d8abe,"2020-06-20, 11:39:39 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+b2cc9d8b-c184-43a1-a95f-5e288160d406,"2020-06-20, 11:39:39 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+ccc22f95-61e1-4605-bccc-d2f5a8c06cbb,"2020-06-20, 11:39:39 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+43490098-c1df-42bb-a1bc-127600cf9a34,"2020-06-20, 11:39:38 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+8f14c8cf-895c-466f-80f3-3b656fa78fc7,"2020-06-20, 11:39:38 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+8f9a9c88-3e7f-4b18-9038-b3c52ee5c7ea,"2020-06-20, 11:39:38 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+997a9b68-6cc0-412b-b67d-3667e0c4f374,"2020-06-20, 11:39:38 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+c158ce75-45b4-4de9-81a9-4c9bfb1860e2,"2020-06-20, 11:39:38 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+f5f5dec1-4ec4-4df0-b468-e59ed4f3f7ba,"2020-06-20, 11:39:38 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+3835f613-5564-4ffa-b9e8-4153b6381847,"2020-06-20, 11:39:37 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+d6180c83-c15c-4135-973a-6648bfa91e6d,"2020-06-20, 10:58:30 AM",devops,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""lambda_function_name""}]",,us-east-1,,49.207.200.130
+f180f143-b6f4-4cd1-9747-ab057249de23,"2020-06-20, 10:56:37 AM",devops,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.200.130
+1f0fc417-f873-49d8-89aa-ed6b70aaa8fb,"2020-06-20, 10:52:59 AM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""AROA3S472O2AVFBRZA5LZ""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda_1""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""arn:aws:iam::796514743937:role/iam_for_lambda_1""}]",,us-east-1,,49.207.200.130
+2514b55f-13de-4702-952d-339f3c5c321d,"2020-06-20, 10:51:37 AM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,EntityAlreadyExistsException,49.207.200.130
+ddf32d87-43ae-4d3b-8845-7ebfe588e0d6,"2020-06-20, 10:33:07 AM",test_lambda,CreateLogStream,,,,us-east-1,,3.236.58.95
+c6215b45-a515-4f6c-83a8-f8aa961ff795,"2020-06-20, 10:32:55 AM",root,UpdateFunctionConfiguration20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""test_lambda""}]",,us-east-1,,49.207.200.130
+bdcdf7b8-68ae-4a33-bf5a-9ff544f4e5f7,"2020-06-20, 10:32:24 AM",test_lambda,CreateLogStream,,,,us-east-1,,35.172.110.40
+af48ae03-3f22-4e1e-ad63-fcba7dcafbf6,"2020-06-20, 10:32:18 AM",root,UpdateFunctionConfiguration20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""test_lambda""}]",,us-east-1,,49.207.200.130
+0606ebf7-45dd-4add-9918-a62fbc29e0f8,"2020-06-20, 10:30:26 AM",test_lambda,CreateLogStream,,,,us-east-1,ResourceNotFoundException,18.212.53.246
+52aed960-78de-4461-8006-b62210d56351,"2020-06-20, 10:30:26 AM",test_lambda,CreateLogStream,,,,us-east-1,,18.212.53.246
+7fc77ffa-022c-4e48-87df-bfb5eea88da1,"2020-06-20, 10:30:26 AM",test_lambda,CreateLogGroup,,,,us-east-1,,18.212.53.246
+7adfc330-06fa-4d7d-bc4b-57ad7698d888,"2020-06-20, 10:30:12 AM",root,UpdateFunctionConfiguration20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""test_lambda""}]",,us-east-1,,49.207.200.130
+bc41c1a3-185d-41b1-a479-fd2e6aa1d4ed,"2020-06-20, 10:28:58 AM",root,UpdateFunctionCode20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""test_lambda""}]",,us-east-1,,49.207.200.130
+2ac61cb3-766e-46f9-8265-1a30f820fc69,"2020-06-20, 10:28:01 AM",root,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""test_lambda""}]",,us-east-1,,49.207.200.130
+860dbb26-1278-4ba6-a03b-64e18c8608c0,"2020-06-20, 10:27:51 AM",root,DetachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/AdministratorAccess""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.200.130
+b0873499-760b-4d4c-b727-3a31cd6c464f,"2020-06-20, 10:24:17 AM",root,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/AdministratorAccess""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.200.130
+7bd511ee-c095-4512-9866-902e9b4bdea0,"2020-06-20, 10:23:13 AM",root,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::aws:policy/AWSLambdaFullAccess""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.200.130
+2ad73c83-675a-415c-9904-b5d870b96e91,"2020-06-20, 10:21:28 AM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""AROA3S472O2A744SCUTIU""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""arn:aws:iam::796514743937:role/iam_for_lambda""}]",,us-east-1,,49.207.200.130
+772d67d5-4690-41b6-b28e-2a319d1fe66f,"2020-06-20, 10:20:43 AM",root,DeleteRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.200.130
+3e80ac45-53ea-4059-99ff-e234418315e7,"2020-06-20, 10:19:16 AM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""AROA3S472O2AWOZZTE4FJ""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""arn:aws:iam::796514743937:role/iam_for_lambda""}]",,us-east-1,,49.207.200.130
+106c02a4-0dd3-4c5e-b9c9-e424b955ed47,"2020-06-20, 10:15:31 AM",devops,DeleteRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.200.130
+f1d4f731-946f-41b6-9c19-0c2664411015,"2020-06-20, 10:15:30 AM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""serverless_example_lambda""}]",,us-east-1,MalformedPolicyDocumentException,49.207.200.130
+8f5355c5-5d5c-4d57-92f2-345826dfcd08,"2020-06-20, 08:16:20 AM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+39ce2fbb-4af6-4ffa-a814-d25b3b7822a6,"2020-06-20, 08:14:08 AM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+3fa62243-df34-4ba9-9655-801d9231f856,"2020-06-20, 08:13:40 AM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""AROA3S472O2ASNPEK37LZ""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""arn:aws:iam::796514743937:role/iam_for_lambda""}]",,us-east-1,,49.207.200.130
+9d7627be-4576-4aab-baea-5b1953ea4771,"2020-06-20, 08:13:31 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+00301b69-b17c-4b4c-b80a-2f850c90c477,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+02d04444-eb77-409a-a813-081ef0c83029,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+0d5611b2-fd4c-4b1c-8490-59837a6f847d,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+102db630-39ce-4ec4-825d-f10a1dd41ebf,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+1a45fcc5-b4b0-4412-9235-29532348da54,"2020-06-20, 08:13:02 AM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+2cc0f40f-aa75-4f1f-be75-1d13fdcdd8b5,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+37d56c17-df8f-4f1e-8266-e7220db9ec64,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+45ebe34b-6ec8-4381-9de8-73c50f593c40,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+6f1d434e-2c33-4c30-872b-204b25f5cbc8,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+7a50db64-84b8-4ea9-a1d5-3b03678f59b9,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+7c7138ca-7c1f-4eee-8b87-31e6ac15eb16,"2020-06-20, 08:13:02 AM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+8d3a734b-6696-4fc4-88f8-1928f93a11f8,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+9fd61d8a-1d91-4833-b5b7-bfe390111e6b,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+bac19aed-ce13-4d35-9b0b-cba0a5a1125f,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+bf31f611-5713-4fc5-bfa6-47a462842873,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+c7304bf4-2833-4fef-9e0a-72e18c6968fb,"2020-06-20, 08:13:02 AM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+c85e816f-2b92-4d4c-b10c-2ccbb0010364,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+ce5d0d9d-f94f-4ca5-8954-9d1b80a1b26c,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+d25a77f4-c054-4de2-b8d3-48a5fc70f0a3,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+d6d7e231-8e47-49af-9fe6-9bf8e4a332ea,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+ebb2cb0f-4025-403f-a646-d46cd819e4c1,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+feb38de9-f2d5-49bb-8526-2758aa9de8f9,"2020-06-20, 08:13:02 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+1265a4a8-4467-45ec-bed2-a3bd029da9da,"2020-06-20, 08:13:01 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+23fcb76a-b2cb-499e-b031-41f801e0f665,"2020-06-20, 08:13:01 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+250370e9-ffb4-4ce9-992c-65196355d9bc,"2020-06-20, 08:13:01 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+25183623-b183-4b7b-8f87-14e9f5be6e3c,"2020-06-20, 08:13:01 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+3acba229-fa25-4f0c-865d-e40fc3e44f0b,"2020-06-20, 08:13:01 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+419d8056-8353-453c-8e29-5756f1df94c3,"2020-06-20, 08:13:01 AM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+96d534bc-b0b4-4746-a39e-abdb4548dfb1,"2020-06-20, 08:13:01 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+c4149b4f-8f81-49de-9fc8-95933910f8cd,"2020-06-20, 08:13:01 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+dba3864a-b577-4b69-b10b-67da1464a428,"2020-06-20, 08:13:01 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+0fc731f9-d872-4904-9668-12103353af9b,"2020-06-20, 07:53:40 AM",devops,DeleteRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""}]",,us-east-1,,49.207.200.130
+68f0b2af-02a0-4f4d-a5c2-fd5f673637bb,"2020-06-20, 07:49:07 AM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""AROA3S472O2AQFFCL55BZ""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""iam_for_lambda""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""arn:aws:iam::796514743937:role/iam_for_lambda""}]",,us-east-1,,49.207.200.130
+3aa133d3-adfd-41b8-a9f3-886904e8de6f,"2020-06-20, 07:41:35 AM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""serverless_greetings""}]",,us-east-1,MalformedPolicyDocumentException,49.207.200.130
+5d1b1077-48d8-4500-82fc-841abe3f9f00,"2020-06-20, 07:35:41 AM",devops,CreateRole,IAM Role,"[{""resourceType"":""AWS::IAM::Role"",""resourceName"":""serverless_greetings""}]",,us-east-1,MalformedPolicyDocumentException,49.207.200.130
+e5c43b37-3698-4660-8961-31c1bc4c77b0,"2020-06-20, 07:11:05 AM",example,CreateLogStream,,,,us-east-1,,35.168.32.70
+70d08b1a-e2ba-4918-915e-06b2c9c255b2,"2020-06-20, 07:11:02 AM",root,UpdateFunctionCode20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""example""}]",,us-east-1,,49.207.200.130
+26c436fa-0711-4bd5-be91-620f31bf09d3,"2020-06-20, 07:09:23 AM",example,CreateLogStream,,,,us-east-1,,54.85.167.172
+efdc2a8f-0156-44aa-a467-9cb7f46c9879,"2020-06-20, 07:09:11 AM",root,UpdateFunctionConfiguration20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""example""}]",,us-east-1,,49.207.200.130
+9b298ede-8041-4094-9fae-5b38b500b701,"2020-06-20, 07:01:35 AM",test2,CreateLogStream,,,,us-east-1,AccessDenied,3.81.208.232
+6989be5c-3ea9-4d8b-8c17-b03bea0c05ce,"2020-06-20, 07:01:34 AM",test2,CreateLogStream,,,,us-east-1,AccessDenied,3.81.208.232
+14787d74-d538-4b3a-aea1-297c385d4aac,"2020-06-20, 07:01:33 AM",test2,CreateLogStream,,,,us-east-1,AccessDenied,3.81.208.232
+4dacdce7-00cd-4deb-9839-029468612b04,"2020-06-20, 07:01:33 AM",test2,CreateLogStream,,,,us-east-1,AccessDenied,3.81.208.232
+8132f67d-c30a-4637-ab2c-0226aac37237,"2020-06-20, 07:01:33 AM",test2,CreateLogStream,,,,us-east-1,AccessDenied,3.81.208.232
+9994e6f2-bb0b-41fa-9288-3162c1b40bdf,"2020-06-20, 07:00:52 AM",root,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""test2""}]",,us-east-1,,49.207.200.130
+2aefd6ec-b382-4c43-8a1a-119c829b9d86,"2020-06-20, 06:59:28 AM",example,CreateLogStream,,,,us-east-1,,3.229.130.241
+709281ff-ef0d-45a1-9968-1f10892a22fd,"2020-06-20, 06:59:22 AM",root,UpdateFunctionConfiguration20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""example""}]",,us-east-1,,49.207.200.130
+433b1438-dbcd-4255-9ab9-9fe20f07ea53,"2020-06-20, 06:58:08 AM",example,CreateLogStream,,,,us-east-1,,3.235.88.197
+7e35051c-0867-4d48-8380-0580bf35aae8,"2020-06-20, 06:58:08 AM",example,CreateLogGroup,,,,us-east-1,,3.235.88.197
+bddd9907-5c53-4e58-8ac8-c2a8e8f52ac3,"2020-06-20, 06:58:08 AM",example,CreateLogStream,,,,us-east-1,ResourceNotFoundException,3.235.88.197
+552fb23e-a662-4d21-902a-5a3d760e98b4,"2020-06-20, 06:57:46 AM",root,UpdateFunctionConfiguration20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""example""}]",,us-east-1,,49.207.200.130
+265e8444-b7a0-4392-8361-fea8b1d5b61c,"2020-06-20, 06:57:28 AM",root,UpdateFunctionCode20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""example""}]",,us-east-1,,49.207.200.130
+2ff8322a-0d36-461d-ae97-bb68efbae731,"2020-06-20, 06:56:16 AM",root,UpdateFunctionConfiguration20150331v2,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""example""}]",,us-east-1,,49.207.200.130
+63176c4a-d5d5-4c1f-a0db-e2040b0977fd,"2020-06-20, 06:54:36 AM",root,CreateFunction20150331,Lambda Function,"[{""resourceType"":""AWS::Lambda::Function"",""resourceName"":""example""}]",,us-east-1,,49.207.200.130
+84e0123c-7109-4ce3-8547-a74ce57cd739,"2020-06-20, 06:54:32 AM",root,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.200.130
+acd06fdd-aa9a-4cd6-aa34-92d94ed74a14,"2020-06-20, 06:54:29 AM",root,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.200.130
+2a577ca0-c263-428c-a4b6-c050d82ce7fe,"2020-06-20, 06:54:28 AM",root,CreateFunction20150331,,,,us-east-1,InvalidParameterValueException,49.207.200.130
+3ac29d0f-86db-4e00-82e2-0fb911beeae4,"2020-06-20, 06:54:26 AM",root,AttachRolePolicy,IAM Policy and 1 more,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/service-role/AWSLambdaBasicExecutionRole-78f82306-c6f7-4b2e-acff-5a10c28516c1""},{""resourceType"":""AWS::IAM::Role"",""resourceName"":""example-role-0n25ius1""}]",,us-east-1,,49.207.200.130
+6776d280-3092-4381-a3d8-ecfb063cb566,"2020-06-20, 06:54:26 AM",root,CreatePolicy,IAM Policy,"[{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""AWSLambdaBasicExecutionRole-78f82306-c6f7-4b2e-acff-5a10c28516c1""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""ANPA3S472O2A2J5DJJHCA""},{""resourceType"":""AWS::IAM::Policy"",""resourceName"":""arn:aws:iam::796514743937:policy/service-role/AWSLambdaBasicExecutionRole-78f82306-c6f7-4b2e-acff-5a10c28516c1""}]",,us-east-1,,49.207.200.130
+d3e25a41-d122-42bc-8772-5204a52fd1ee,"2020-06-20, 06:54:26 AM",root,CreateRole,,,,us-east-1,,49.207.200.130
+7c27fd5c-dce0-4b1d-92c6-077729f2f950,"2020-06-20, 06:49:43 AM",root,ConsoleLogin,,,,us-east-1,,49.207.200.130
+544ecc0b-8642-4098-bdc6-1dfe5540afe4,"2020-06-20, 05:41:14 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+408d4cc7-4a2c-4a07-8478-42253920c820,"2020-06-20, 05:41:12 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+548710af-d322-40a5-a884-13c6ba923456,"2020-06-20, 05:41:12 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+fd617dd6-5627-4097-ae08-3d08c08e12fe,"2020-06-20, 05:41:12 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+251aacfc-0c07-493c-ae65-486e449488f9,"2020-06-19, 11:45:23 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+aa78743f-b5ea-4f9f-923f-58e56fa4b6e0,"2020-06-19, 11:45:23 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+060f8479-2e06-49b8-96b6-8442c9ba0f03,"2020-06-19, 11:45:22 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+1d700232-fac2-4b53-87bf-14460ffe543f,"2020-06-19, 11:45:22 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+4d8b4f3a-fd38-438a-a714-3519440aeb7f,"2020-06-19, 11:45:22 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+8c8259b0-725f-4eaf-af42-e0e8e8ecfe8a,"2020-06-19, 11:45:22 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+99a5c9f5-b0cf-4478-9ecc-4dfd7507fafc,"2020-06-19, 11:45:22 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+9e30d0cf-c895-4d2c-b3cf-9e77b5c4f6fc,"2020-06-19, 11:45:22 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+0735f22d-05c4-4559-b5a1-03e7772eafaf,"2020-06-19, 11:45:21 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+97885b32-3729-48b7-9479-a10fbf1414de,"2020-06-19, 11:45:21 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+b628105f-cbd2-428e-be01-643ed18a5a45,"2020-06-19, 11:45:21 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+f2902eaa-7bf9-4f3a-aa32-6f2e6d8d1d1c,"2020-06-19, 11:45:21 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+0ab3fdcd-c90a-45d4-b6bf-e66b89422238,"2020-06-19, 08:16:01 PM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+c0f89e21-81a9-4c49-852a-b0b2ea484a1c,"2020-06-19, 08:14:11 PM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+4d8101ed-e194-4c7d-81cb-c116e90cd627,"2020-06-19, 08:13:31 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+378b8d11-ad4a-41a5-976e-bad72ddf3ce6,"2020-06-19, 08:13:03 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+aa5b5825-f4b8-4e25-8157-66e2dd3a1115,"2020-06-19, 08:13:03 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+03f28bed-15a1-48db-891a-32e9587e3a93,"2020-06-19, 08:13:02 PM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+0843544f-3e6d-4ede-954e-aa2f8b8f15ec,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+1fe7b9f9-9ce4-4e78-b2c7-729bba215419,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+31f8f374-0c2d-4394-90bc-8c228be18806,"2020-06-19, 08:13:02 PM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+3c4f9928-a21a-4a3e-b906-60b89b90ecf0,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+5760d821-39ca-4914-b706-4973ef59bb2e,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+5cace66b-618f-4f4b-8e26-fe6576fe9fb5,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+5f2ae5ee-9f25-4fe2-abf3-15b2e9593fc0,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+6e596912-25a0-4b71-acfe-696ebdf5552f,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+6ebe6bf3-81f1-428a-8150-f357822231f2,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+82830479-7515-40d4-8afd-a9b3ed80ff3f,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+83aaacb4-d10b-424b-a249-ec3c00125fe7,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+93a1ae20-f053-4adf-81fd-0c5981a3706c,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+a7618396-4c8e-4495-97d2-43afad73b0ae,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+ae27a199-7c09-4070-9c60-91357d096411,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+bf9ca6c1-435c-4f43-95f8-f8b0e33f398f,"2020-06-19, 08:13:02 PM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+c369db2a-8d3e-453a-9c4f-73a6e687f802,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+cc93b89b-e06a-4fac-9bea-db1037a6ebf4,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+d19560ce-d779-479c-a68d-19b549890d5d,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+dafc5007-8a25-466d-a728-4218ce410959,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+e26ad5cb-d6b2-4645-83c9-cd49225499bf,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+edb71bf9-a57b-49ff-ba91-1dd3628f254a,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+ef4254b7-7185-4f65-98ee-0a9c93817868,"2020-06-19, 08:13:02 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+3bdabd3f-b419-4083-a10f-a3da5d0968b6,"2020-06-19, 08:13:01 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+85c6cdc1-3d38-4c87-b74d-320360f9a7d9,"2020-06-19, 08:13:01 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+9155b998-521b-483a-bef9-0ee0745a6f00,"2020-06-19, 08:13:01 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+a5f93663-70be-4917-b9bd-e4aa6c8721f6,"2020-06-19, 08:13:01 PM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+d3d5c5a2-af4a-4525-909b-d51a37f444eb,"2020-06-19, 08:13:01 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+f03e8c2b-0014-4db2-b7f9-5318df787038,"2020-06-19, 08:13:01 PM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+269b9133-43be-4ab8-a485-3eaa3e5f771d,"2020-06-19, 05:43:10 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+4507e349-37c3-4901-a0bf-8acc61b1633b,"2020-06-19, 05:43:10 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+725f8bb4-c896-4647-beb1-b9599a9f4169,"2020-06-19, 05:43:10 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+b135f617-a0c9-4750-9b7d-e0700b3950eb,"2020-06-19, 05:43:10 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+3160a522-168b-40f0-b4bc-83c368edd274,"2020-06-19, 05:43:09 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+58595b09-3d1d-4850-9b7e-77ce1b3ddb2f,"2020-06-19, 05:43:09 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+19a5fb33-27db-475d-a1b3-f45a990df6ce,"2020-06-19, 05:43:08 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+9069bafa-dfd7-4976-b5c6-ea2669904eea,"2020-06-19, 05:43:08 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+995a90a9-f304-40c9-ae14-29bebd275e36,"2020-06-19, 05:43:08 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+ac97c6e5-d9ce-45e1-bd35-058387f2f841,"2020-06-19, 05:43:08 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+24eb0c29-1b3e-4f46-8528-0ed254db2717,"2020-06-19, 05:43:07 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+7dcf94a5-53e4-4809-8356-9fb42e9a4c2e,"2020-06-19, 05:43:07 PM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+74e2e4c8-d6e0-489c-bdbd-8c1f22991770,"2020-06-19, 12:08:35 PM",devops,TerminateInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-0c7360513b813a46a""}]",,us-east-1,,49.207.200.130
+a241d748-8487-4eb9-9e88-3e01d6c4b2a4,"2020-06-19, 12:08:35 PM",devops,TerminateInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-0a9918c18c69a3ffe""}]",,us-east-1,,49.207.200.130
+5fa9efbd-8229-4f90-8fd1-b7c3a5747f00,"2020-06-19, 12:01:52 PM",devops,TerminateInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-003f8c9afe3e85c54""}]",,us-east-1,,49.207.200.130
+fc6f39d0-6826-4384-8559-6a79d9b1ddb7,"2020-06-19, 11:44:17 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+d7acc962-4ab5-416b-909c-d72828c62eac,"2020-06-19, 11:44:16 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+a2e61316-c62b-4078-bbe0-1133f21c8955,"2020-06-19, 11:44:15 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+fef0697c-cd50-4a2e-bee8-4b069d1302a8,"2020-06-19, 11:44:15 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+2fd2979b-b65c-472e-9b7e-5e3ca922c7c3,"2020-06-19, 11:44:14 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+33e15105-0486-4e5d-b066-dcd068f9416e,"2020-06-19, 11:44:14 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+3c1d7280-b359-42b8-b243-4e2f24185bfa,"2020-06-19, 11:44:14 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+75ae9daa-b967-4ba8-8d87-eca3720fb719,"2020-06-19, 11:44:14 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+bb4cc95f-673e-4791-8c4b-7949fc7c8c75,"2020-06-19, 11:44:14 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+f0b38f71-3617-43be-bda3-2a248cf9fcc1,"2020-06-19, 11:44:14 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+31ed590d-d0ec-4bf9-ab30-3ed6d3add7aa,"2020-06-19, 11:44:13 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+542aee61-addb-4886-94e5-dd38569310c5,"2020-06-19, 11:44:13 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+a289a41c-7fa0-422c-bdeb-bc5a150bafb5,"2020-06-19, 11:44:13 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+b481d2b7-4828-4bf4-aa15-dd94e0a6f3ff,"2020-06-19, 11:44:13 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+c63f3c35-4352-4209-963c-2d649c8f3d71,"2020-06-19, 11:44:13 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+f04c97aa-f788-4c17-933e-0f1e44d80ee7,"2020-06-19, 11:44:13 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+f5c30347-cb19-46f7-b870-182aa7889bc9,"2020-06-19, 11:44:13 AM",securityhub,BatchGetResourceConfig,,,,us-east-1,,securityhub.amazonaws.com
+4bb48526-5a19-46b9-a84a-fb8f21fc0217,"2020-06-19, 11:35:37 AM",devops,MonitorInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-0a9918c18c69a3ffe""}]",,us-east-1,,49.207.200.130
+8206061e-e563-4df6-bab8-fd54f1c19b4c,"2020-06-19, 11:35:37 AM",devops,MonitorInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-003f8c9afe3e85c54""}]",,us-east-1,,49.207.200.130
+e8b80b5d-1618-44db-9b0c-66d0227c58ce,"2020-06-19, 11:35:37 AM",devops,MonitorInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-0c7360513b813a46a""}]",,us-east-1,,49.207.200.130
+519fc168-c6fd-49d0-a053-997fc2cea077,"2020-06-19, 11:35:06 AM",,SharedSnapshotVolumeCreated,,,,us-east-1,,ec2.amazonaws.com
+30df9a2f-9411-4b2b-a862-c2f21a060e6b,"2020-06-19, 11:35:05 AM",,SharedSnapshotVolumeCreated,,,,us-east-1,,ec2.amazonaws.com
+c4ac9a78-dfbf-4131-b695-74f8eb3e93cb,"2020-06-19, 11:35:05 AM",,SharedSnapshotVolumeCreated,,,,us-east-1,,ec2.amazonaws.com
+476df7fd-3d91-4efb-8d34-43cab6d2be71,"2020-06-19, 11:35:01 AM",devops,RunInstances,EC2 VPC and 5 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-0a8b252055183049d""},{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-003f8c9afe3e85c54""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Database""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0f7c99a36a9020d85""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,49.207.200.130
+91afc251-5643-4893-8d6b-07837bbc39f2,"2020-06-19, 11:35:01 AM",devops,RunInstances,EC2 VPC and 5 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-071a407391ce6ff41""},{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-0c7360513b813a46a""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Database""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0f7c99a36a9020d85""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,49.207.200.130
+9ecb4c68-289d-4abe-85e9-e9785e034e94,"2020-06-19, 11:35:01 AM",devops,RunInstances,EC2 VPC and 5 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-0f699c29f64edd3fd""},{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-0a9918c18c69a3ffe""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Database""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0f7c99a36a9020d85""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,49.207.200.130
+021cedd9-5ce9-49a6-bbed-caace99d3b62,"2020-06-19, 11:21:45 AM",devops,TerminateInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-03a03b9b2e36ccf7f""}]",,us-east-1,,49.207.200.130
+aa174cd6-94bb-42a7-81a3-3fdffb8f199b,"2020-06-19, 11:21:45 AM",devops,TerminateInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-0d25ee9db327aba1f""}]",,us-east-1,,49.207.200.130
+70acb6e3-da83-4e98-be49-3876263c8e7f,"2020-06-19, 11:00:18 AM",devops,MonitorInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-03a03b9b2e36ccf7f""}]",,us-east-1,,49.207.200.130
+c63f4910-bb5f-4785-a9ba-e8670d546bbe,"2020-06-19, 11:00:07 AM",devops,MonitorInstances,EC2 Instance,"[{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-0d25ee9db327aba1f""}]",,us-east-1,,49.207.200.130
+32ea343b-9ce6-4571-893b-18cc0cdd7f6a,"2020-06-19, 10:59:46 AM",,SharedSnapshotVolumeCreated,,,,us-east-1,,ec2.amazonaws.com
+d63937ce-0840-4c5b-a6c7-201e27d70f5c,"2020-06-19, 10:59:46 AM",,SharedSnapshotVolumeCreated,,,,us-east-1,,ec2.amazonaws.com
+6cbc7fa6-1fd6-4c73-8c78-9bff5e0b03b5,"2020-06-19, 10:59:43 AM",devops,RunInstances,EC2 VPC and 5 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-052ab2eae54e3c05a""},{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-03a03b9b2e36ccf7f""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Database""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0f7c99a36a9020d85""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,49.207.200.130
+f493309d-0e83-44b4-b40c-fe9af81531e1,"2020-06-19, 10:59:43 AM",devops,RunInstances,EC2 VPC and 5 more,"[{""resourceType"":""AWS::EC2::VPC"",""resourceName"":""vpc-0e1ef224072dfe54e""},{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::NetworkInterface"",""resourceName"":""eni-09a27671ef15e8578""},{""resourceType"":""AWS::EC2::Instance"",""resourceName"":""i-0d25ee9db327aba1f""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""UDARR-Database""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""sg-0f7c99a36a9020d85""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,,49.207.200.130
+b277fc25-dc2c-492d-a0f6-d2af5e33aa8f,"2020-06-19, 10:56:40 AM",devops,RunInstances,EC2 Ami and 2 more,"[{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.InvalidGroup.NotFound,49.207.200.130
+fddd3120-2848-4d1c-99dd-53824f5b9a36,"2020-06-19, 10:56:40 AM",devops,RunInstances,EC2 Ami and 2 more,"[{""resourceType"":""AWS::EC2::Ami"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::SecurityGroup"",""resourceName"":""ami-0c6b1d09930fac512""},{""resourceType"":""AWS::EC2::Subnet"",""resourceName"":""subnet-038b6599cc5cb58e8""}]",,us-east-1,Client.InvalidGroup.NotFound,49.207.200.130
+5023c947-76b2-4af0-96db-2a7d0b42b1e2,"2020-06-19, 09:17:04 AM",root,ConsoleLogin,,,,us-east-1,,49.207.200.130
+6e85f3cc-33b2-4525-8e67-e04d7b844509,"2020-06-19, 08:16:12 AM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+ecea1bd7-af55-45be-a4ed-3c94d432328b,"2020-06-19, 08:14:07 AM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+1c47ef80-ae7d-452d-9141-9e3816e136fa,"2020-06-19, 08:13:28 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+d7fd530f-3604-484f-97f8-433f284f7d0f,"2020-06-19, 08:13:08 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+88eec61c-e66f-451f-b778-04e7110740c2,"2020-06-19, 08:13:00 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+1dd1d8b0-d0c4-4150-9635-4acce42ca706,"2020-06-19, 08:12:59 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+3bb3dd26-4381-492c-8697-efd349952d62,"2020-06-19, 08:12:59 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+521e3594-4786-4cb2-a098-ade3255654c9,"2020-06-19, 08:12:59 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+9efd908b-d105-4837-9915-c0790125ae80,"2020-06-19, 08:12:59 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+bf59c360-2f4a-4fb9-bd0a-28c809b41770,"2020-06-19, 08:12:59 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+cb4146db-e076-4636-b279-da00d7fa7b03,"2020-06-19, 08:12:59 AM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+ce2fdad3-d756-4dc7-959e-f5337177eb6a,"2020-06-19, 08:12:59 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+d83875a8-94e9-46f5-b79f-bbb4dcbd1a4b,"2020-06-19, 08:12:59 AM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+de34e313-afe5-42d3-91f1-05d7decd3cd9,"2020-06-19, 08:12:59 AM",configLambdaExecution,SelectResourceConfig,,,,us-east-1,,config.amazonaws.com
+eb0f3978-fa49-4720-80fd-a3c2f61fab56,"2020-06-19, 08:12:59 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+f3262f9d-fcce-4a6d-89fc-8a7524461789,"2020-06-19, 08:12:59 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+0f6f2ad7-135b-4250-a694-7515a306d838,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+10d1227d-c40f-4bdf-bd12-22542e08ba22,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+1fad7aa7-ca5a-4f54-a4df-bc0f6724a790,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+2aa566c6-5c7d-4e65-b9ae-775fd34698ba,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+38ba60e5-c7e0-4762-bab4-15ca7ad5b8e2,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+439e8adc-9196-4282-8b60-88d37da8fc32,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+49101859-1a01-44a9-9b24-fe1953629213,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+5f557250-52c4-46c8-8b2d-441f0b7fa19d,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+71e4856e-504c-413c-b638-ec57ac061369,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+77870ef2-c705-4603-b809-6c1d0fe2e4da,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+79044038-babf-44cf-a21a-f2b72820a820,"2020-06-19, 08:12:58 AM",configLambdaExecution,BatchGetResourceConfig,,,,us-east-1,,config.amazonaws.com
+8671b8df-5446-4092-963c-90a34e3d1578,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+a15be7c9-ff61-4e6e-91a8-57e9f73b2888,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+b6002dc2-a16c-4efc-a27d-6c6c4ba8ad07,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+d953747b-cd7d-4dbe-993d-caac466e74c3,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+e766e3c2-e312-4f73-8035-738705541390,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+f891ce57-6b2b-4b5c-8914-f254059a3d3c,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
+fabb117d-775a-49ec-b1a8-cc3004af758d,"2020-06-19, 08:12:58 AM",configLambdaExecution,PutEvaluations,,,,us-east-1,,config.amazonaws.com
