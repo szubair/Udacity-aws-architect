@@ -15,3 +15,5 @@ Total Monthly cost: 7,426.55 USD
 
 Please note - Looking at the requirements of Udacity_Diagram_1.pdf, the RDS service is configured with a master DB in AZ1 and a read-replica in AZ2. While checking AWS price calculator, it doesn't support RDS read-replica. We need to create another DB instance to include the price of read-replica in the estimate. Therefore, I have created 2 DB single instances in the aws price estimate to calucate the cost of DB instances. 
 I understand that last time I have added the DB instances two different region which is not the ask, however I have corrected this time and created both the DB instances in the same region and price also modified. 
+
+AWS services like dynamoDB or cloudfront is not available in the AWS price calculator. Therefore these services are not added in this price estimate.
