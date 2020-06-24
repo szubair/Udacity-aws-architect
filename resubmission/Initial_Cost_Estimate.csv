@@ -5,12 +5,13 @@ My Estimate,US East (N. Virginia),Amazon EC2,0,5263.57,63162.84,USD,"Operating s
  Intra-Region 0 TB per month 
 "
 My Estimate,US East (N. Virginia),Elastic Load Balancing,0,33.32,399.84,USD,Number of Application Load Balancers (2)
-My Estimate,US West (N. California),Amazon RDS for MySQL,0,1152.6,13831.20,USD,"Quantity (1), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (100 GB)"
-My Estimate,US East (N. Virginia),Amazon RDS for MySQL,0,1010.14,12121.68,USD,"Quantity (1), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (100 GB)"
+My Estimate,US East (N. Virginia),Amazon RDS for MySQL,0,1010.14,12121.68,USD,"Quantity (1), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (db.m5.4xlarge)"
 My Estimate,US East (N. Virginia),Amazon Elastic IP,0,37.5,450.00,USD,"Number of EC2 instances (10), Number of EIPs per instance (2), Number of EIP remaps (10)"
 My Estimate,US East (N. Virginia),Amazon Route 53,0,1,12.00,USD,Hosted Zones (2)
-My Estimate,US East (N. Virginia),S3 Standard,0,2.3,27.60,USD,S3 Standard storage (100 GB per month)
-My Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD,Data Transfer
+My Estimate,US East (N. Virginia),Amazon RDS for MySQL,0,1002.09,12025.08,USD,"Quantity (1), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (30 GB), Instance type (db.m5.4xlarge)"
 
 
-Total Monthly bill: 7,579.36 USD
+Total Monthly cost: 7,426.55 USD
+
+Please note - Looking at the requirements of Udacity_Diagram_1.pdf, the RDS service is configured with a master DB in AZ1 and a read-replica in AZ2. While checking AWS price calculator, it doesn't support RDS read-replica. We need to create another DB instance to include the price of read-replica in the estimate. Therefore, I have created 2 DB single instances in the aws price estimate to calucate the cost of DB instances. 
+I understand that last time I have added the DB instances two different region which is not the ask, however I have corrected this time and created both the DB instances in the same region and price also modified. 
