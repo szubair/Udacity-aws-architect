@@ -1,26 +1,47 @@
 Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
 My Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,78.93,947.16,USD,Number of NAT Gateways (1)
-My Estimate,US East (N. Virginia),Amazon EC2,32168,2704.56,64622.72,USD,"Operating system (Linux), Quantity (8), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (30 GB), Instance type (c5.9xlarge)"
-My Estimate,US East (N. Virginia),Elastic Load Balancing,0,33.32,399.84,USD,Number of Application Load Balancers (2)
-My Estimate,US East (N. Virginia),Amazon RDS for MySQL,0,1302.252,15627.02,USD,"Quantity (1), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (db.m5.4xlarge)"
-My Estimate,US East (N. Virginia),S3 Standard,0,0.57,6.84,USD,S3 Standard storage (25 GB per month)
-My Estimate,US East (N. Virginia),Data Transfer,0,0,0,USD," Inbound (from: Not selected) 0 TB per month 
+My Estimate,US East (N. Virginia),Amazon EC2,17870.4,1788.77,39335.64,USD,"Operating system (Linux), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (100 GB), Snapshot Frequency (2x Daily), Amount changed per snapshot (10 GB),  Inbound (from: Not selected) 0 TB per month 
  Outbound (to: Not selected) 0 TB per month 
+ Intra-Region 0 TB per month 
 "
-My Estimate,US West (N. California),Amazon RDS for MySQL,0,2560.697,30728.36,USD,"Quantity (1), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (db.m5.12xlarge)"
-My Estimate,US East (N. Virginia),Amazon CloudWatch,0,558.728,6704.74,USD,
-My Estimate,US East (N. Virginia),Amazon Elastic File System (EFS),0,30,360,USD,Data stored in Standard storage (100 GB per month)
-My Estimate,US East (N. Virginia),Amazon Redshift,0,365,4380,USD,(2 instances)  dc2.large  OnDemand
-,,Business Support,,100,,,
-,,,,,,,
-,,,,,,,
-,,Total,,7734.057,,,
+My Estimate,US East (N. Virginia),Elastic Load Balancing,0,33.32,399.84,USD,Number of Application Load Balancers (2)
+My Estimate,US West (N. California),Amazon RDS for MySQL,0,867.54,10410.48,USD,"Quantity (1), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (100 GB), Additional backup storage (50 GB)"
+My Estimate,US East (N. Virginia),Amazon RDS for MySQL,0,1307.002,15684.02,USD,"Quantity (1), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (db.m5.4xlarge), Additional backup storage (50 GB)"
+My Estimate,US West (N. California),S3 Standard,0,2.6,31.20,USD,S3 Standard storage (100 GB per month)
+My Estimate,US West (N. California),S3 Standard - Infrequent Access,0,0.48,5.76,USD,S3 Infrequent Access storage (25 GB per month)
+My Estimate,US West (N. California),S3 Glacier,0,0.25,3.00,USD,S3 Glacier storage (50 GB per month)
+My Estimate,US West (N. California),S3 Storage Management,0,0,0.00,USD,
+My Estimate,US West (N. California),Data Transfer,0,0,0.00,USD,Data Transfer
+My Estimate,US East (N. Virginia),Amazon Elastic IP,0,147,1764.00,USD,"Number of EC2 instances (10), Number of EIPs per instance (5), Number of EIP remaps (10)"
+My Estimate,US East (N. Virginia),Amazon Route 53,0,1,12.00,USD,Hosted Zones (2)
+My Estimate,US West (N. California),S3 Standard,0,2.6,31.20,USD,S3 Standard storage (100 GB per month)
+My Estimate,US West (N. California),S3 Standard - Infrequent Access,0,0.95,11.40,USD,S3 Infrequent Access storage (50 GB per month)
+My Estimate,US West (N. California),S3 Glacier,0,0.25,3.00,USD,S3 Glacier storage (50 GB per month)
+My Estimate,US West (N. California),S3 Storage Management,0,0,0.00,USD,
+My Estimate,US West (N. California),Data Transfer,0,0,0.00,USD,Data Transfer
+My Estimate,US East (N. Virginia),Amazon CloudWatch,0,42.545,510.54,USD,
+My Estimate,US East (N. Virginia),Amazon Elastic File System (EFS),0,15,180.00,USD,Data stored in Standard storage (50 GB per month)
+My Estimate,US East (N. Virginia),Amazon Simple Notification Service (SNS),0,2.5,30.00,USD,"Data Transfer, Requests (5 million per month)"
+My Estimate,US East (N. Virginia),AWS Web Application Firewall (WAF),0,15,180.00,USD,"Number of Web Access Control Lists (Web ACLs) utilized (2 per month), Number of Rules added per Web ACL (5 per month)"
+My Estimate,US East (N. Virginia),AWS Config,0,0.1,1.20,USD,"Number of Configuration items recorded (25), Number of Config rule evaluations (25)"
+My Estimate,US East (N. Virginia),AWS Lambda,0,1.69,20.28,USD,"Number of requests (100000), Concurrency (100), Time for which Provisioned Concurrency is enabled (1 hours), Number of requests for Provisioned Concurrency (1000)"
+My Estimate,US East (N. Virginia),AWS Key Management Service,0,11,132.00,USD,"Number of customer managed Customer Master Keys (CMK) (5), Number of symmetric requests (2000000)"
+My Estimate,US East (N. Virginia),Amazon Redshift,24000,2701,56412.00,USD,(2 instances)  dc2.8xlarge  Reserved  Partial Upfront  1yr
+My Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,44.4,532.80,USD,Number of interface VPC endpoints per region (3)
+
+
+Total Monthly bill: 7,063.93 USD
 
 Summary:
 --------
-Regarding 'Increased_Cost Estimate', I have selected multi-AZ for RDS service. RDS is very critical part of the application and having multi-AZ setup will support the application during AZ failures. I have added CloudWatch metrics and SNS service to create various alarms like CPU & Memory. It's great service from AWS to monitor our infra as well as application. Also, cloudwatch alarms on the AWS billing service. 
+Regarding 'Increased_Cost Estimate', I have selected multi-AZ for RDS service. RDS is very critical part of the application and having multi-AZ setup will support the application during AZ failures. I have added CloudWatch metrics and SNS service to create various alarms like CPU & Memory. It's great service from AWS to monitor our infra as well as application. Also, cloudwatch alarms on the AWS billing service is a best pratice to get notified about the monthly bills. 
 
-Then, I need CloudWatch logs from various AWS services like VPC flowlogs, loadbalancer, CloudTrail logs etc to do analysis on the logs. These log analysis helps me to get better understanding about all the acitivites in the AWS account. The S3 storage will increase but I need the cloudwatch logs to do auditing and other monitoring purpose.
+I have included CloudWatch logs from various AWS services like VPC flowlogs, loadbalancer, CloudTrail logs etc to do log analysis. These log analysis will help me to get better understanding about all the service acitivites in the AWS account. These cloudwatch logs required to do auditing and other troubleshooing purpose.
 
-I will enable AWS business support too. I understand using business support I cloud reach out to highly talented cloud support engineers for any technical and architectural advise.
+I have included AWS WAF service as firewall to the loadbalancer. It gives additional security to the application. Also, I'd enable AWS config service to do asses, audit and evaluate the configurations of the aws resources. 
+
+I have included KMS service to encrypt the data stored in AWS services such as RDS. It will also help to have encrypted EBS and DB snapshots.
+
+I'd enable AWS business support too. I understand using business support I cloud reach out to highly talented cloud support engineers for any technical and architectural advise.
+
 
