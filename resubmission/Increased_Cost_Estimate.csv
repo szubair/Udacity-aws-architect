@@ -34,7 +34,10 @@ Total Monthly bill: 7,063.93 USD
 
 Summary:
 --------
-Regarding 'Increased_Cost Estimate', I have selected multi-AZ for RDS service. RDS is very critical part of the application and having multi-AZ setup will support the application during AZ failures. I have added CloudWatch metrics and SNS service to create various alarms like CPU & Memory. It's great service from AWS to monitor our infra as well as application. Also, cloudwatch alarms on the AWS billing service is a best pratice to get notified about the monthly bills. 
+Regarding 'Increased_Cost Estimate', I have selected multi-AZ for RDS service. RDS is very critical part of the application and having multi-AZ setup will support the application during AZ failures. I have added another DB instance in the US West (N. California) and this is for read-replica setup as standby. It's kind of DR setup in another region. I can switch to this RDS instance during a regional failure.
+
+
+I have added CloudWatch metrics and SNS service to create various alarms like CPU & Memory. It's great service from AWS to monitor our infra as well as application. Also, cloudwatch alarms on the AWS billing service is a best pratice to get notified about the monthly bills. 
 
 I have included CloudWatch logs from various AWS services like VPC flowlogs, loadbalancer, CloudTrail logs etc to do log analysis. These log analysis will help me to get better understanding about all the service acitivites in the AWS account. These cloudwatch logs required to do auditing and other troubleshooing purpose.
 
